@@ -8,8 +8,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        dark: "var(--dark)",
+        darkt: "var(--darkt)",
+        light: "var(--light)",
+        yellow: "var(--yellow)",
+        error: "var(--error)",
+        science: "var(--science)",
+        health: "var(--health)",
+        communication: "var(--communication)",
+        education: "var(--education)",
+        political: "var(--political)",
+        lettres: "var(--lettres)",
+        business: "var(--business)",
       },
     },
   },

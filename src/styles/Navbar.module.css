@@ -1,0 +1,6 @@
+.overlay {
+	transition: opacity 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.panel {
+	transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+  }
