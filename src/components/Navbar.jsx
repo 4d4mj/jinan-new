@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { usePathname } from 'next/navigation'
+import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import styles from "@styles/Navbar.module.css";
@@ -10,9 +10,15 @@ const name = "Adam Jabado";
 
 const links = [
 	{ icon: "home", name: "home", route: "/" },
-	{ icon: "add", name: "about", route: "/about" },
-	{ icon: "home", name: "services", route: "/services" },
-	{ icon: "home", name: "contact", route: "/contact" },
+	{ icon: "add", name: "registration", route: "/about" },
+	{ icon: "attach_money", name: "payments", route: "/services" },
+	{ icon: "history", name: "transcript", route: "/contact" },
+	{ icon: "school", name: "curriculum", route: "/contact" },
+	{ icon: "list", name: "petitions", route: "/contact" },
+	{ icon: "laptop", name: "online classes", route: "/contact" },
+	{ icon: "developer_guide", name: "manuals", route: "/contact" },
+	{ icon: "local_library", name: "al manhal", route: "https://platform.almanhal.com/" },
+	{ icon: "help", name: "help", route: "/contact" },
 	// Add more links as needed
 ];
 
@@ -21,9 +27,11 @@ const Navbar = () => {
 
 	const router = useRouter();
 
+	const pathname = usePathname();
+
 	const handleLogout = () => {
 		// Here, you can also add your logout logic like clearing tokens or session data.
-
+		sessionStorage.removeItem("data");
 		router.push("/login");
 	};
 
@@ -71,16 +79,29 @@ const Navbar = () => {
 				>
 					<i className="material-symbols-outlined">close</i>
 				</button>
-
+				<div className="capitalize text-yellow text-xl font-semibold flex gap-2">
+					<div className="h-16 w-16">
+						<Image
+							src="/images/logo.svg"
+							width={80}
+							height={80}
+							alt="logo"
+						/>
+					</div>
+					jinan <br />
+					university
+				</div>
 				{/* Links */}
-				<ul className="flex flex-col gap-2 mt-12">
+				<ul className="flex flex-col gap-2">
 					{links.map((link, index) => (
 						<li key={index}>
 							<Link
 								href={link.route}
-								className={`capitalize flex gap-2 justify-end p-2 rounded-lg font-medium ${
-									router.pathname === link.route ? "bg-white text-dark" : "bg-light"
-								  }`}
+								className={`capitalize flex gap-2 justify-end p-2 rounded-lg font-semibold ${
+									pathname === link.route
+										? "bg-white text-dark"
+										: "text-yellow"
+								}`}
 							>
 								{link.name}
 								<i className="material-symbols-outlined outlined">
@@ -91,7 +112,7 @@ const Navbar = () => {
 					))}
 				</ul>
 				<button
-					className="capitalize flex gap-2 justify-center p-2 rounded-lg font-medium bg-error"
+					className="capitalize flex gap-2 justify-center p-2 rounded-lg font-medium bg-error shadow"
 					onClick={handleLogout}
 				>
 					logout

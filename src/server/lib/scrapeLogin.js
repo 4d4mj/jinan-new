@@ -13,11 +13,8 @@ const scrapeLogin = async (username, password) => {
     // Set custom timeout of 1 second (1000 ms) for this action only
     await page.waitForSelector('.table_main', { timeout: 1000 });
 
-    // Extract session cookies after successful login
-    const cookies = await context.cookies();
-
     // Return cookies and context to persist session for future requests
-    return { cookies, context };
+    return page;
   } catch (error) {
     // Close the context if an error occurs
     await context.close();

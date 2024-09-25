@@ -1,32 +1,37 @@
-const Profile = () => {
-	const name = "John Doe";
-	const id = "1234567890";
-	const campus = "Lagos";
-	const major = "Computer Science";
-	const semesters = ["2021/2022", "2022/2023", "2023/2024", "2024/2025"];
+import Image from "next/image";
+
+const Profile = ({ profile, selectedSemester, setSelectedSemester, totalCredits, totalPassed, average }) => {
+	console.log("Profile props:",  totalCredits, totalPassed, average );
+
+	// Handle the change in semester
+	const handleSemesterChange = (event) => {
+		setSelectedSemester(event.target.value); // Update the selected semester
+	};
 
 	return (
-		<div className="flex flex-col gap-4 w-[24rem]">
+		<div className="flex flex-col gap-4 min-w-[24rem]">
 			{/* user info */}
 			<div className="flex p-4 bg-darkt rounded-xl gap-4">
-				<div className="bg-blue-400 w-24 h-24 rounded-md"></div>
+				<div className="bg-blue-400 w-24 h-24 rounded-md overflow-clip">
+					<Image src={'/images/me.jpg'} alt={'profile'} width={200} height={200} />
+				</div>
 				<div className="flex flex-col justify-between">
 					<div>
-						<p className="text-lg font-semibold">{name}</p>
-						<p className="text-md font-medium">{id}</p>
+						<p className="text-lg font-semibold">{profile.name}</p>
+						<p className="text-md font-medium">{profile.id}</p>
 					</div>
 					<div>
 						<p className="text-sm font-semibold text-dark flex gap-1 items-center">
 							<i className="material-symbols-outlined tiny">
 								school
 							</i>
-							{major}
+							{profile.major}
 						</p>
 						<p className="text-sm font-semibold text-dark flex gap-1 items-center">
 							<i className="material-symbols-outlined tiny">
 								location_on
 							</i>
-							{campus}
+							{profile.campus}
 						</p>
 					</div>
 				</div>
@@ -35,14 +40,18 @@ const Profile = () => {
 			<div className="flex flex-col p-4 bg-darkt rounded-xl">
 				<div className="flex gap-2 mb-4">
 					<div className="flex-grow relative">
-						<select className=" text-white appearance-none w-full bg-light px-4 py-2 rounded-lg shadow outline-none border-none relative">
-							{semesters.map((option, index) => (
+						<select
+							value={selectedSemester} // Bind the selected semester
+							onChange={handleSemesterChange} // Handle changes
+							className="text-white appearance-none w-full bg-light px-4 py-2 rounded-lg shadow outline-none border-none relative"
+						>
+							{profile.semesters.map((option, index) => (
 								<option
 									key={index}
-									value={option.value}
+									value={option}
 									className="text-white bg-dark"
 								>
-									hello
+									{option}
 								</option>
 							))}
 						</select>
@@ -57,20 +66,20 @@ const Profile = () => {
 					</button>
 				</div>
 				<h2 className="capitalize font-semibold text-lg mb-2">
-					this semester
+					semester summary
 				</h2>
 				<div className="flex justify-between font-semibold">
 					<div className="stack">
-						<p>average</p>
-						<p className="text-dark">3.5</p>
+						<p>credits</p>
+						<p className="text-dark">{totalCredits}</p>
+					</div>
+					<div className="stack">
+						<p>passed</p>
+						<p className="text-dark">{totalPassed}</p>
 					</div>
 					<div className="stack">
 						<p>average</p>
-						<p className="text-dark">3.5</p>
-					</div>
-					<div className="stack">
-						<p>average</p>
-						<p className="text-dark">3.5</p>
+						<p className="text-dark">{average}</p>
 					</div>
 				</div>
 			</div>
@@ -82,7 +91,7 @@ const Profile = () => {
 					</h2>
 					<button className="icon">
 						<i className="material-symbols-outlined small outlined flex-shrink">
-						attach_money
+							attach_money
 						</i>
 					</button>
 				</div>

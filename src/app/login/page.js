@@ -3,71 +3,57 @@ import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import Loading from "@components/Loading";
 
 const LoginPage = () => {
 	const router = useRouter();
 	const [username, setUsername] = useState("");
 	const [password, setPassword] = useState("");
 	const [error, setError] = useState("");
+	const [loading, setLoading] = useState(false);
 
 	const [passwordVisible, setPasswordVisible] = useState(false);
 
-	const handleSubmit = async (event) => {
-		event.preventDefault();
-
-		// Reset error state
-		setError('');
-
-		// Check if inputs are empty
-		if (!username || !password) {
-		  setError('Please fill in both fields');
-		  return;
-		}
+	const handleSubmit = async (e) => {
+		e.preventDefault();
+		setLoading(true);
+		setError("");
 
 		try {
-		  // Make a POST request to your login API endpoint using fetch
-		  const loginResponse = await fetch('http://localhost:3000/login', {
-			method: 'POST',
-			headers: {
-			  'Content-Type': 'application/json',
-			},
-			credentials: 'include', // Include cookies in the request
-			body: JSON.stringify({ username, password }),
-		  });
-
-		  // Check if login was successful
-		  if (loginResponse.ok) {
-			// Optionally, parse the response data
-			const loginData = await loginResponse.json();
-			console.log('Login successful:', loginData);
-
-			// Fetch the profile data
-			const profileResponse = await fetch('http://localhost:3000/profile', {
-			  method: 'GET',
-			  credentials: 'include', // Include cookies in the request
+			// Send login request and get all user data (profile, courses, etc.)
+			const response = await fetch("http://localhost:4000/profile", {
+				method: "POST",
+				headers: {
+					"Content-Type": "application/json",
+				},
+				body: JSON.stringify({ username, password }),
 			});
 
-			if (profileResponse.ok) {
-			  const profileData = await profileResponse.json();
-			  console.log('Profile data:', profileData);
+			const data = await response.json();
 
-			  // Redirect to homepage or set profile data in state
-			  router.push('/');
+			if (response.ok) {
+				console.log("Data collection successful:", data);
+				sessionStorage.setItem("data", JSON.stringify(data)); // Save sessionId for future use
+				router.push("/"); // Redirect to dashboard or home page
 			} else {
-			  setError('Failed to fetch profile data.');
+				setError(data.message || "Login failed");
 			}
-		  } else {
-			setError('Invalid username or password');
-		  }
-		} catch (error) {
-		  console.error('Error during login or fetching profile:', error);
-		  setError('An error occurred. Please try again.');
+		} catch (err) {
+			setError("An error occurred. Please try again.");
+			console.error("Error:", err);
+		} finally {
+			setLoading(false); // End loading state
 		}
-	  };
-
+	};
 
 	return (
 		<div className="login-bg h-screen">
+			{/* loading */}
+			{loading && (
+				<Loading />
+			)}
+
+			{/* title and logo */}
 			<div className="flex flex-col justify-center gap-6 items-center h-full pb-10 px-28 w-[42rem]">
 				<div>
 					<Image
@@ -78,11 +64,12 @@ const LoginPage = () => {
 					/>
 				</div>
 				<h1 className="text-white capitalize text-3xl flex flex-col items-center">
-					welcome to{" "}
+					welcome to
 					<span className="font-semibold text-yellow">
 						jinan university system
 					</span>
 				</h1>
+				{/* form */}
 				<form
 					onSubmit={handleSubmit}
 					className="flex flex-col w-full gap-6"

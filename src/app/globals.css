@@ -39,10 +39,6 @@
 	font-size: 1rem;
 }
 
-* {
-	font-family: var(--font-poppins);
-}
-
 /* button */
 
 /* button {
@@ -87,18 +83,17 @@ button.icon {
 	font-weight: 600;
 }
 
-
 /* login */
 .login-bg {
 	background-image: linear-gradient(
-		to right,
-		var(--dark) 0%,
-		var(--dark) 50%,
-		transparent 100%
-	  ),
-	  url("/images/building.jpg");
+			to right,
+			var(--dark) 0%,
+			var(--dark) 50%,
+			transparent 100%
+		),
+		url("/images/building.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: right;
 	background-color: var(--dark);
-  }
+}

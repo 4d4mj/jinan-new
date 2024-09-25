@@ -1,0 +1,506 @@
+{
+	"sessionId": "180a2e3b-cf05-40ad-8cf3-06f56d2d01b7",
+	"profile": {
+		 "id": "10220398",
+		 "major": "Computer Science",
+		 "name": "Adam Namir Jabado",
+		 "campus": "Tripoli",
+		 "semesters": [
+			  "Spring  2023 - 2024",
+			  "Fall  2023 - 2024",
+			  "Spring  2022 - 2023",
+			  "Fall  2022 - 2023"
+		 ]
+	},
+	"courses": [
+		 {
+			  "semester": "Spring  2023 - 2024",
+			  "courses": [
+					{
+						 "code": "PHY101",
+						 "name": "General Physics",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 2
+					},
+					{
+						 "code": "CSC103",
+						 "name": "Database Systems",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3
+					},
+					{
+						 "code": "CSC103L",
+						 "name": "Database Systems Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 2.3
+					},
+					{
+						 "code": "CSC308",
+						 "name": "Networking",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3
+					},
+					{
+						 "code": "CSC307",
+						 "name": "System Analysis and Design",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3
+					},
+					{
+						 "code": "CSC224",
+						 "name": "Introduction to Robotics and IOT",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "AGCV250",
+						 "name": "الفنون الإعلانية والتواصل البصري 3",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 4
+					}
+			  ],
+			  "totalCreditsAttempted": "16",
+			  "totalCreditsPassed": "16"
+		 },
+		 {
+			  "semester": "Fall  2023 - 2024",
+			  "courses": [
+					{
+						 "code": "AGCV255",
+						 "name": "الرسم الإيضاحي",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 4
+					},
+					{
+						 "code": "LIT125",
+						 "name": "English Language II or French Language II",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 3.3
+					},
+					{
+						 "code": "SPT100",
+						 "name": "التربية البدنية و الرياضية",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 3.3
+					},
+					{
+						 "code": "CSC211",
+						 "name": "Operating Systems",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "CSC211L",
+						 "name": "Operating Systems Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "SCI001",
+						 "name": "Introduction to Cyber Security",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 4
+					},
+					{
+						 "code": "MAT210",
+						 "name": "Operation Research",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3.3
+					}
+			  ],
+			  "totalCreditsAttempted": "18",
+			  "totalCreditsPassed": "18"
+		 },
+		 {
+			  "semester": "Spring  2022 - 2023",
+			  "courses": [
+					{
+						 "code": "LIT120",
+						 "name": "English Language I or French Language I",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 2.3
+					},
+					{
+						 "code": "LIT105",
+						 "name": "الحضارة العربية",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 2.3
+					},
+					{
+						 "code": "CSC209",
+						 "name": "Web Programming I",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC213",
+						 "name": "Visual Programming",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC210",
+						 "name": "Object Oriented Programming",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3.3
+					}
+			  ],
+			  "totalCreditsAttempted": "13",
+			  "totalCreditsPassed": "13"
+		 },
+		 {
+			  "semester": "Fall  2022 - 2023",
+			  "courses": [
+					{
+						 "code": "MAT108",
+						 "name": "Linear Algebra",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "CSC102",
+						 "name": "Logic Design",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC215",
+						 "name": "E-Business",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "ADM105",
+						 "name": "Introduction to Information Technology",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC101",
+						 "name": "Programming I",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC101L",
+						 "name": "Programming I Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "LIT110",
+						 "name": "Arabic Language I",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 3.3
+					}
+			  ],
+			  "totalCreditsAttempted": "17",
+			  "totalCreditsPassed": "17"
+		 }
+	],
+	"transcript": {
+		 "transferred": [
+			  {
+					"code": "BIT308",
+					"name": "Introduction to Programming",
+					"credits": "3.00"
+			  },
+			  {
+					"code": "STAT102",
+					"name": "Probability & Statistics",
+					"credits": "3.00"
+			  },
+			  {
+					"code": "MAT107",
+					"name": "Calculus",
+					"credits": "3.00"
+			  }
+		 ],
+		 "semesters": [
+			  {
+					"title": "Fall  2022 - 2023",
+					"courses": [
+						 {
+							  "code": "ADM105",
+							  "name": "Introduction to Information Technology",
+							  "credits": "3",
+							  "grade": "A+",
+							  "average": "97"
+						 },
+						 {
+							  "code": "CSC101",
+							  "name": "Programming I",
+							  "credits": "2",
+							  "grade": "A+",
+							  "average": "96"
+						 },
+						 {
+							  "code": "CSC101L",
+							  "name": "Programming I Lab",
+							  "credits": "1",
+							  "grade": "A+",
+							  "average": "100"
+						 },
+						 {
+							  "code": "CSC102",
+							  "name": "Logic Design",
+							  "credits": "3",
+							  "grade": "A+",
+							  "average": "99"
+						 },
+						 {
+							  "code": "CSC215",
+							  "name": "E-Business",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "88"
+						 },
+						 {
+							  "code": "LIT110",
+							  "name": "Arabic Language I",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "87"
+						 },
+						 {
+							  "code": "MAT108",
+							  "name": "Linear Algebra",
+							  "credits": "2",
+							  "grade": "B+",
+							  "average": "89"
+						 }
+					],
+					"current": [
+						 {
+							  "attempted": "17",
+							  "passed": "17",
+							  "average": "93.12"
+						 }
+					],
+					"cumulative": [
+						 {
+							  "attempted": "17",
+							  "passed": "17",
+							  "average": "93.12"
+						 }
+					]
+			  },
+			  {
+					"title": "Spring  2022 - 2023",
+					"courses": [
+						 {
+							  "code": "CSC209",
+							  "name": "Web Programming I",
+							  "credits": "2",
+							  "grade": "A+",
+							  "average": "96"
+						 },
+						 {
+							  "code": "CSC210",
+							  "name": "Object Oriented Programming",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "85"
+						 },
+						 {
+							  "code": "CSC213",
+							  "name": "Visual Programming",
+							  "credits": "2",
+							  "grade": "A+",
+							  "average": "100"
+						 },
+						 {
+							  "code": "LIT105",
+							  "name": "الحضارة العربية",
+							  "credits": "3",
+							  "grade": "C+",
+							  "average": "77"
+						 },
+						 {
+							  "code": "LIT120",
+							  "name": "English Language I or French Language I",
+							  "credits": "3",
+							  "grade": "C+",
+							  "average": "77"
+						 }
+					],
+					"current": [
+						 {
+							  "attempted": "13",
+							  "passed": "13",
+							  "average": "85.31"
+						 }
+					],
+					"cumulative": [
+						 {
+							  "attempted": "30",
+							  "passed": "30",
+							  "average": "89.73"
+						 }
+					]
+			  },
+			  {
+					"title": "Fall  2023 - 2024",
+					"courses": [
+						 {
+							  "code": "AGCV255",
+							  "name": "الرسم الإيضاحي",
+							  "credits": "3",
+							  "grade": "A",
+							  "average": "94"
+						 },
+						 {
+							  "code": "CSC211",
+							  "name": "Operating Systems",
+							  "credits": "2",
+							  "grade": "B+",
+							  "average": "85"
+						 },
+						 {
+							  "code": "CSC211L",
+							  "name": "Operating Systems Lab",
+							  "credits": "1",
+							  "grade": "B+",
+							  "average": "86"
+						 },
+						 {
+							  "code": "LIT125",
+							  "name": "English Language II or French Language II",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "89"
+						 },
+						 {
+							  "code": "MAT210",
+							  "name": "Operation Research",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "85"
+						 },
+						 {
+							  "code": "SCI001",
+							  "name": "Introduction to Cyber Security",
+							  "credits": "3",
+							  "grade": "A",
+							  "average": "93"
+						 },
+						 {
+							  "code": "SPT100",
+							  "name": "التربية البدنية و الرياضية",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "85"
+						 }
+					],
+					"current": [
+						 {
+							  "attempted": "18",
+							  "passed": "18",
+							  "average": "88.56"
+						 }
+					],
+					"cumulative": [
+						 {
+							  "attempted": "48",
+							  "passed": "48",
+							  "average": "89.29"
+						 }
+					]
+			  },
+			  {
+					"title": "Spring  2023 - 2024",
+					"courses": [
+						 {
+							  "code": "AGCV250",
+							  "name": "الفنون الإعلانية والتواصل البصري 3",
+							  "credits": "3",
+							  "grade": "A",
+							  "average": "91"
+						 },
+						 {
+							  "code": "CSC103",
+							  "name": "Database Systems",
+							  "credits": "2",
+							  "grade": "B",
+							  "average": "83"
+						 },
+						 {
+							  "code": "CSC103L",
+							  "name": "Database Systems Lab",
+							  "credits": "1",
+							  "grade": "C+",
+							  "average": "77"
+						 },
+						 {
+							  "code": "CSC224",
+							  "name": "Introduction to Robotics and IOT",
+							  "credits": "2",
+							  "grade": "A",
+							  "average": "93"
+						 },
+						 {
+							  "code": "CSC307",
+							  "name": "System Analysis and Design",
+							  "credits": "3",
+							  "grade": "B",
+							  "average": "80"
+						 },
+						 {
+							  "code": "CSC308",
+							  "name": "Networking",
+							  "credits": "2",
+							  "grade": "B",
+							  "average": "81"
+						 },
+						 {
+							  "code": "PHY101",
+							  "name": "General Physics",
+							  "credits": "3",
+							  "grade": "C",
+							  "average": "71"
+						 }
+					],
+					"current": [
+						 {
+							  "attempted": "16",
+							  "passed": "16",
+							  "average": "82.31"
+						 }
+					],
+					"cumulative": [
+						 {
+							  "attempted": "64",
+							  "passed": "64",
+							  "average": "87.55"
+						 }
+					]
+			  }
+		 ]
+	}
+}

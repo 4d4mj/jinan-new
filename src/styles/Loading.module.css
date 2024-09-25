@@ -1,0 +1,48 @@
+.loading {
+	animation: slideInRight 0.8s cubic-bezier(0.87, 0, 0.1, 1);
+	perspective: 1000px;
+}
+
+.label {
+	opacity: 0;
+	animation: appear 0.2s cubic-bezier(0.87, 0, 0.1, 1) forwards;
+	animation-delay: 0.8s;
+}
+
+.loader {
+	width: 50px;
+	height: 50px;
+	position: relative;
+	background-color: var(--yellow);
+	animation: rotatePlane 1.2s infinite ease-in-out;
+}
+
+@keyframes rotatePlane {
+	0% {
+		transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+	}
+	50% {
+		transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+	}
+	100% {
+		transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+	}
+}
+
+@keyframes slideInRight {
+	from {
+		transform: translateY(100%);
+	}
+	to {
+		transform: translateY(0);
+	}
+}
+
+@keyframes appear {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
