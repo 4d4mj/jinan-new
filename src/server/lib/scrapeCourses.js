@@ -36,6 +36,11 @@ const scrapeCourses = async (page) => {
 				});
 			});
 
+			const scheduleLink = await page.evaluate(() => {
+				const linkElement = document.querySelector('a[href*="printSchedule"]');
+				return linkElement ? linkElement.href : null;
+			});
+
 			// Calculate totals for credits and average grade
 			const totalCreditsAttempted = courses.reduce((sum, course) => sum + course.credits, 0).toString();
 			const totalCreditsPassed = courses
@@ -48,6 +53,7 @@ const scrapeCourses = async (page) => {
 			allCoursesBySemester.push({
 				semester: option.text.trim().replace(/\s-\sTripoli$/, ""),
 				courses: courses,
+				scheduleLink: scheduleLink,
 				totalCreditsAttempted: totalCreditsAttempted,
 				totalCreditsPassed: totalCreditsPassed,
 				averageGrade: parseFloat(averageGrade.toFixed(2)), // Rounded to 2 decimal places

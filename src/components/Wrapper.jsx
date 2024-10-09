@@ -1,17 +1,14 @@
 "use client";
-import Navbar from "@components/Navbar";
 import Navbar2 from "@components/Navbar2";
+import Loading from "@components/Loading";
 import Profile from "@components/Profile";
-import Course from "@components/Course";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
-import Loading from "@components/Loading";
-import CourseDetails from "@/components/CourseDetails";
 
-export default function Home() {
+export default function Wrapper({ children }) {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
-	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
+	const [selectedSemester, setSelectedSemester] = useState("");
 
 	const [selectedCourse, setSelectedCourse] = useState(null);
 
@@ -78,23 +75,8 @@ export default function Home() {
 					schedule={coursesForSelectedSemester.scheduleLink}
 				/>
 
-				{/* Conditionally render the grid or the selected course info */}
-				<div className="flex-grow grid grid-cols-4 gap-4 grid-rows-3 overflow-y-auto">
-					{selectedCourse ? (
-						<CourseDetails course={selectedCourse} closeModal={closeModal} />
-					) : (
-						/* Display the course grid if no course is selected */
-						coursesForSelectedSemester?.courses.map(
-							(course, index) => (
-								<Course
-									key={index}
-									course={course}
-									onInfoClick={() => handleInfoClick(course)}
-								/>
-							)
-						)
-					)}
-				</div>
+				{/* children*/}
+				{children}
 			</div>
 		</div>
 	);

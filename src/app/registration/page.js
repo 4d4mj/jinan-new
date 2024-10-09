@@ -1,27 +1,18 @@
 "use client";
 import Navbar from "@components/Navbar";
 import Navbar2 from "@components/Navbar2";
-import Profile from "@components/Profile";
-import Course from "@components/Course";
+// import Profile from "@components/Profile";
+// import Course from "@components/Course";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import Loading from "@components/Loading";
-import CourseDetails from "@/components/CourseDetails";
+import Profile from "@/components/Profile";
+import Semester from "@/components/Semester";
 
-export default function Home() {
+export default function Registration() {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
 	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
-
-	const [selectedCourse, setSelectedCourse] = useState(null);
-
-	const handleInfoClick = (course) => {
-		setSelectedCourse(course);
-	};
-
-	const closeModal = () => {
-		setSelectedCourse(null);
-	};
 
 	useEffect(() => {
 		if (typeof window !== "undefined") {
@@ -66,6 +57,7 @@ export default function Home() {
 		<div className="flex flex-col h-screen">
 			<Navbar2 faculty={data.profile.faculty} />
 			<div className="flex-grow flex p-5 gap-6">
+				{/* Display courses for the selected semester */}
 				<Profile
 					profile={data.profile}
 					selectedSemester={selectedSemester}
@@ -77,23 +69,8 @@ export default function Home() {
 					average={coursesForSelectedSemester.averageGrade}
 					schedule={coursesForSelectedSemester.scheduleLink}
 				/>
-
-				{/* Conditionally render the grid or the selected course info */}
-				<div className="flex-grow grid grid-cols-4 gap-4 grid-rows-3 overflow-y-auto">
-					{selectedCourse ? (
-						<CourseDetails course={selectedCourse} closeModal={closeModal} />
-					) : (
-						/* Display the course grid if no course is selected */
-						coursesForSelectedSemester?.courses.map(
-							(course, index) => (
-								<Course
-									key={index}
-									course={course}
-									onInfoClick={() => handleInfoClick(course)}
-								/>
-							)
-						)
-					)}
+				<div className="flex-grow grid grid-cols-3 gap-4 grid-rows-2">
+					<Semester />
 				</div>
 			</div>
 		</div>

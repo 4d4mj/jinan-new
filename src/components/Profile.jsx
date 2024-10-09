@@ -1,6 +1,15 @@
 import Image from "next/image";
+import Link from "next/link";
 
-const Profile = ({ profile, selectedSemester, setSelectedSemester, totalCredits, totalPassed, average }) => {
+const Profile = ({
+	profile,
+	selectedSemester,
+	setSelectedSemester,
+	totalCredits,
+	totalPassed,
+	average,
+	schedule,
+}) => {
 	console.log("Profile props:",  totalCredits, totalPassed, average );
 
 	// Handle the change in semester
@@ -13,7 +22,12 @@ const Profile = ({ profile, selectedSemester, setSelectedSemester, totalCredits,
 			{/* user info */}
 			<div className="flex p-4 bg-darkt rounded-xl gap-4">
 				<div className="bg-blue-400 w-24 h-24 rounded-md overflow-clip">
-					<Image src={'/images/me.jpg'} alt={'profile'} width={200} height={200} />
+					<Image
+						src={"/images/me.jpg"}
+						alt={"profile"}
+						width={200}
+						height={200}
+					/>
 				</div>
 				<div className="flex flex-col justify-between">
 					<div>
@@ -59,11 +73,13 @@ const Profile = ({ profile, selectedSemester, setSelectedSemester, totalCredits,
 							keyboard_arrow_down
 						</i>
 					</div>
-					<button className="icon">
-						<i className="material-symbols-outlined outlined">
-							calendar_month
-						</i>
-					</button>
+					<Link href={schedule}>
+						<button className="icon">
+							<i className="material-symbols-outlined outlined">
+								calendar_month
+							</i>
+						</button>
+					</Link>
 				</div>
 				<h2 className="capitalize font-semibold text-lg mb-2">
 					semester summary

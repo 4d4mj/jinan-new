@@ -1,4 +1,4 @@
-const Course = ({course}) => {
+const Course = ({course, onInfoClick}) => {
 	return (
 		<div className="flex flex-col bg-dark rounded-xl justify-between text-white p-3">
 			<div className="flex justify-between text-sm uppercase font-medium opacity-60">
@@ -23,7 +23,7 @@ const Course = ({course}) => {
 					<button className="bg-light flex-grow rounded-md text-sm font-medium">
 						Evaluation
 					</button>
-					<button className="icon">
+					<button className="icon" onClick={onInfoClick}>
 						<i className="material-symbols-outlined outlined small">
 							info
 						</i>

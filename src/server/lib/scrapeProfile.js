@@ -1,3 +1,29 @@
+const FACULTY_MAPPING = {
+	computerscience: 'science',
+	biology: 'science',
+	biochemistry: 'science',
+
+	medicallaboratorytechnology: 'health',
+	nursing: 'health',
+	medicalsocialassistance: 'health',
+
+	journalism: 'communication',
+	graphicdesign: 'communication',
+	'radio&television': 'communication',
+
+	schoolelementaryteaching: 'education',
+	kindergarten: 'education',
+
+	translation: 'lettres',
+
+	businesscomputing: 'business',
+	generalmanagement: 'business',
+	'accounting&finance': 'business',
+	'management&marketing': 'business',
+
+	politicalscience: 'political',
+ };
+
 const scrapeProfile = async (page) => {
 	try {
 		// Set a custom timeout for this action only
@@ -9,7 +35,7 @@ const scrapeProfile = async (page) => {
 		}
 
 		// Scrape profile data
-		const profile = await page.evaluate(() => {
+		const profile = await page.evaluate((FACULTY_MAPPING) => {
 			const tdElements = document.querySelectorAll(
 				"td.admintable_light div"
 			);
@@ -39,11 +65,12 @@ const scrapeProfile = async (page) => {
 			return {
 				id: tdElements[0]?.textContent || "Unknown ID",
 				major: major,
+				faculty: FACULTY_MAPPING[major.toLowerCase().replace(" ", "")] || "Unknown Faculty",
 				name: tdElements[3]?.textContent || "Unknown Name",
 				campus: tdElements[4]?.textContent || "Unknown Campus",
 				semesters: semesters,
 			};
-		});
+		}, FACULTY_MAPPING);
 
 		return profile;
 	} catch (error) {

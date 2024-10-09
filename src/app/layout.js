@@ -18,7 +18,6 @@ const readex_pro = Readex_Pro({
 export default function RootLayout({ children }) {
 	return (
 		<html lang="en">
-			{/* Apply both Poppins and Alexandria, with Alexandria as the fallback for Arabic */}
 			<body className={`${readex_pro.className} antialiased`}>{children}</body>
 		</html>
 	);

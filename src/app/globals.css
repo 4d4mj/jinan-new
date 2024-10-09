@@ -41,10 +41,6 @@
 
 /* button */
 
-/* button {
-  box-shadow: var(--shadow);
-} */
-
 button.shadow {
 	box-shadow: var(--shadow);
 }
@@ -72,15 +68,17 @@ button.icon {
 	display: flex;
 	flex-direction: column;
 }
+
+.stack p {
+	/* color: var(--dark); */
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+
 .stack :first-child {
 	font-size: 0.8rem;
 	/* font-weight: 500; */
 	opacity: 0.6;
-}
-.stack :last-child {
-	/* color: var(--dark); */
-	font-size: 1.2rem;
-	font-weight: 600;
 }
 
 /* login */
