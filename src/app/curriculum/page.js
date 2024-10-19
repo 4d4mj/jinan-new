@@ -5,8 +5,9 @@ import { useEffect, useState } from "react";
 import Loading from "@components/Loading";
 import Profile from "@/components/Profile";
 import Semester from "@/components/Semester";
+import Transcript from "@/components/Curriculum";
 
-export default function RegistrationPage() {
+export default function CurriculumPage() {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
 	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
@@ -66,9 +67,51 @@ export default function RegistrationPage() {
 					average={coursesForSelectedSemester.averageGrade}
 					schedule={coursesForSelectedSemester.scheduleLink}
 				/>
-				<div className="flex-grow grid grid-cols-3 gap-4 grid-rows-2">
-					<Semester />
-					<Semester />
+				{/* transcript */}
+				<div className="flex-grow flex flex-col gap-4">
+					<Transcript />
+					<Transcript />
+
+					{/* totals */}
+					<div>
+						<table className="w-full">
+							{/* header */}
+							<thead className="bg-light text-white">
+								<tr className="capitalize text-lg text-yellow">
+									<th
+										colSpan="4"
+										className="pt-2 font-medium rounded-t-xl"
+									></th>
+								</tr>
+								<tr className="text-yellow text-sm text-left relative capitalize">
+									<th className="px-2 pb-2 font-medium w-1/4">
+										transfer courses
+									</th>
+									<th className="px-2 pb-2 font-medium w-1/4">
+										total credits
+									</th>
+									<th className="px-2 pb-2 font-medium w-1/4">
+										major average
+									</th>
+									<th className="px-2 pb-2 font-medium w-1/4">
+										average
+									</th>
+								</tr>
+							</thead>
+							<tbody className="font-medium text-dark bg-light text-lg">
+								<tr className="capitalize text-yellow">
+									<td className="px-2 pb-2 font-medium rounded-bl-lg">
+										9
+									</td>
+									<td className="px-2 pb-2">9</td>
+									<td className="px-2 pb-2">9</td>
+									<td className="px-2 pb-2 rounded-br-lg">
+										10
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
 				</div>
 			</div>
 		</div>

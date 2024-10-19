@@ -1,6 +1,5 @@
 "use client";
-import Navbar from "@components/Navbar";
-import Navbar2 from "@components/Navbar2";
+import Navbar from "@/components/Navbar";
 import Profile from "@components/Profile";
 import Course from "@components/Course";
 import { useRouter } from "next/navigation";
@@ -64,8 +63,8 @@ export default function Home() {
 
 	return (
 		<div className="flex flex-col h-screen">
-			<Navbar2 faculty={data.profile.faculty} />
-			<div className="flex-grow flex p-5 gap-6">
+			<Navbar faculty={data.profile.faculty} />
+			<div className="flex-grow flex p-5 pt-1 gap-6">
 				<Profile
 					profile={data.profile}
 					selectedSemester={selectedSemester}

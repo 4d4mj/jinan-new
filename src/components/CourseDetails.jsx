@@ -87,7 +87,7 @@ const CourseDetails = ({ course, closeModal }) => {
 			</button>
 			{/* details */}
 			<div className="border-2 border-opacity-50 border-white h-full rounded-lg relative flex flex-col justify-between p-4">
-				<h2 className="capitalize text-yellow bg-dark px-2 absolute -top-3 font-medium">
+				<h2 className="capitalize text-[rgba(255,255,255,0.6)] bg-dark px-2 absolute -top-3 font-medium">
 					details
 				</h2>
 				<div>
@@ -129,7 +129,7 @@ const CourseDetails = ({ course, closeModal }) => {
 			</div>
 			{/* grades */}
 			<div className="border-2 border-opacity-50 border-white h-full rounded-lg relative flex flex-col justify-between p-4">
-				<h2 className="capitalize text-yellow bg-dark px-2 absolute -top-3 font-medium">
+				<h2 className="capitalize text-[rgba(255,255,255,0.6)] bg-dark px-2 absolute -top-3 font-medium">
 					grades
 				</h2>
 				<div className="capitalize flex justify-between items-center">
@@ -185,7 +185,7 @@ const CourseDetails = ({ course, closeModal }) => {
 			</div>
 			{/* folder */}
 			<div className="border-2 border-opacity-50 border-white h-full rounded-lg relative flex flex-col justify-between p-4 gap-2">
-				<h2 className="capitalize text-yellow bg-dark px-2 absolute -top-3 font-medium">
+				<h2 className="capitalize text-[rgba(255,255,255,0.6)] bg-dark px-2 absolute -top-3 font-medium">
 					folder
 				</h2>
 				<div>
@@ -216,7 +216,7 @@ const CourseDetails = ({ course, closeModal }) => {
 			</div>
 			{/* homework */}
 			<div className="border-2 border-opacity-50 border-white h-full rounded-lg relative flex flex-col justify-between p-4">
-				<h2 className="capitalize text-yellow bg-dark px-2 absolute -top-3 font-medium">
+				<h2 className="capitalize text-[rgba(255,255,255,0.6)] bg-dark px-2 absolute -top-3 font-medium">
 					homework
 				</h2>
 				<div>

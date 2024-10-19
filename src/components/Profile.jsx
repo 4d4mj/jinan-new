@@ -18,7 +18,7 @@ const Profile = ({
 	};
 
 	return (
-		<div className="flex flex-col gap-4 min-w-[24rem]">
+		<div className="flex flex-col gap-4 min-w-[24rem] sticky top-[80px] max-h-[calc(100svh-100px)]">
 			{/* user info */}
 			<div className="flex p-4 bg-darkt rounded-xl gap-4">
 				<div className="bg-blue-400 w-24 h-24 rounded-md overflow-clip">
@@ -57,13 +57,13 @@ const Profile = ({
 						<select
 							value={selectedSemester} // Bind the selected semester
 							onChange={handleSemesterChange} // Handle changes
-							className="text-white appearance-none w-full bg-light px-4 py-2 rounded-lg shadow outline-none border-none relative"
+							className="text-white appearance-none w-full bg-light px-4 py-2 rounded-lg shadow outline-none border-none relative font-medium"
 						>
 							{profile.semesters.map((option, index) => (
 								<option
 									key={index}
 									value={option}
-									className="text-white bg-dark"
+									className="text-[rgba(255,255,255,0.5)] bg-dark"
 								>
 									{option}
 								</option>
@@ -100,13 +100,13 @@ const Profile = ({
 				</div>
 			</div>
 			{/* payments */}
-			<div className="flex flex-col p-4 bg-darkt rounded-xl flex-grow">
+			<div className="flex flex-col p-4 bg-darkt rounded-xl flex-1">
 				<div className="flex justify-between">
 					<h2 className="capitalize font-semibold text-lg">
 						next due vouchers
 					</h2>
 					<button className="icon">
-						<i className="material-symbols-outlined small outlined flex-shrink">
+						<i className="material-symbols-outlined small">
 							attach_money
 						</i>
 					</button>
