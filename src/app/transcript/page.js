@@ -38,14 +38,6 @@ export default function TranscriptPage() {
 		(course) => course.semester === selectedSemester
 	);
 
-	// Log only if data and coursesForSelectedSemester are available
-	if (coursesForSelectedSemester) {
-		console.log(
-			"total ",
-			coursesForSelectedSemester?.totalCreditsAttempted
-		);
-	}
-
 	if (!data || !coursesForSelectedSemester) {
 		// Avoid rendering the component or logging when data isn't fully loaded yet
 		return <Loading />;

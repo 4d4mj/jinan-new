@@ -27,7 +27,7 @@ const FACULTY_MAPPING = {
 const scrapeProfile = async (page) => {
 	try {
 		// Set a custom timeout for this action only
-		page.setDefaultTimeout(5000);
+		// page.setDefaultTimeout(5000);
 
 		// Check if the session is still valid (if you're redirected to login page)
 		if (await page.$('input[name="USER"]')) {

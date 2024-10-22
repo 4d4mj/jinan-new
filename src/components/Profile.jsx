@@ -10,8 +10,6 @@ const Profile = ({
 	average,
 	schedule,
 }) => {
-	console.log("Profile props:",  totalCredits, totalPassed, average );
-
 	// Handle the change in semester
 	const handleSemesterChange = (event) => {
 		setSelectedSemester(event.target.value); // Update the selected semester
