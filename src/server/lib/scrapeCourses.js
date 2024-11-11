@@ -43,7 +43,7 @@ const scrapeCourses = async (page) => {
 					return { code, name, credits, type, grade };
 				});
 			});
-
+			/*
 			// Extract details for each course
 			let i = 0; // Index for rows
 			for (const course of courses) {
@@ -356,7 +356,7 @@ const scrapeCourses = async (page) => {
 				await page.waitForSelector(".table_main");
 				i++;
 			}
-
+				*/
 			const scheduleLink = await page.evaluate(() => {
 				const linkElement = document.querySelector(
 					'a[href*="printSchedule"]'

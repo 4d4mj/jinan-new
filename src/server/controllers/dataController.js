@@ -1,8 +1,10 @@
+const { v4: uuidv4 } = require("uuid");
 const { scrapeLogin } = require("../lib/scrapeLogin");
 const { scrapeProfile } = require("../lib/scrapeProfile");
 const { scrapeCourses } = require("../lib/scrapeCourses");
-const { v4: uuidv4 } = require("uuid");
 const { scrapeTranscript } = require("../lib/scrapeTranscript");
+const { scrapeCurriculum } = require("../lib/scrapeCurriculum");
+const { scrapePayments } = require("../lib/scrapePayments");
 
 const userSessions = {}; // In-memory session store
 
@@ -45,6 +47,22 @@ const combinedDataController = async (req, res) => {
 		} catch (error) {
 			console.error("Error fetching transcript:", error);
 			result.transcriptError = "Failed to fetch transcript data";
+		}
+
+		try {
+			const curriculum = await scrapeCurriculum(page);
+			result.curriculum = curriculum;
+		} catch (error) {
+			console.error("Error fetching curriculum:", error);
+			result.curriculumError = "Failed to fetch curriculum data";
+		}
+
+		try {
+			const payments = await scrapePayments(page);
+			result.payments = payments;
+		} catch (error) {
+			console.error("Error fetching payments:", error);
+			result.paymentsError = "Failed to fetch payments data";
 		}
 
 		// Add more API calls here as needed, like fetching grades, etc.

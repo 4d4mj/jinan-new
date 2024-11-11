@@ -146,8 +146,8 @@ const CourseDetails = ({ course, closeModal }) => {
 					folder
 				</h2>
 				{course.folder.length === 0 ? (
-					<p className="flex justify-center items-center text-lg text-white opacity-50 flex-grow">
-						No Courses
+					<p className="flex justify-center items-center text-white opacity-50 flex-grow capitalize">
+						no courses
 					</p>
 				) : (
 					<div className="flex-grow flex flex-col justify-between">
@@ -193,7 +193,7 @@ const CourseDetails = ({ course, closeModal }) => {
 					homework
 				</h2>
 				{course.homework.length === 0 ? (
-					<p className="flex justify-center items-center text-lg text-white opacity-50 flex-grow">
+					<p className="flex justify-center items-center text-white opacity-50 flex-grow capitalize">
 						No Homework
 					</p>
 				) : (

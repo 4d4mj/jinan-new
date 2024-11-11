@@ -1,0 +1,2372 @@
+{
+	"sessionId": "b5f51764-c850-4564-8dc7-f40517ae358a",
+	"profile": {
+		 "id": "10220398",
+		 "major": "Computer Science",
+		 "faculty": "science",
+		 "name": "Adam Namir Jabado",
+		 "campus": "Tripoli",
+		 "semesters": [
+			  "Fall  2024 - 2025",
+			  "Spring  2023 - 2024",
+			  "Fall  2023 - 2024",
+			  "Spring  2022 - 2023",
+			  "Fall  2022 - 2023"
+		 ]
+	},
+	"courses": [
+		 {
+			  "semester": "Fall  2024 - 2025",
+			  "courses": [
+					{
+						 "code": "MAT101",
+						 "name": "Discrete Maths",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 0
+					},
+					{
+						 "code": "CSC104",
+						 "name": "Data Structures",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 0
+					},
+					{
+						 "code": "CSC104L",
+						 "name": "Data Structures Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 0
+					},
+					{
+						 "code": "CSC223",
+						 "name": "Artificial Intelligence with Python",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 0
+					},
+					{
+						 "code": "CSC216",
+						 "name": "Web Programming II",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 0
+					},
+					{
+						 "code": "CSC219",
+						 "name": "Enterprise Resource Planning",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 0
+					}
+			  ],
+			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=139&type=1&appId=34338",
+			  "totalCreditsAttempted": "13",
+			  "totalCreditsPassed": 0,
+			  "averageGrade": 0
+		 },
+		 {
+			  "semester": "Spring  2023 - 2024",
+			  "courses": [
+					{
+						 "code": "PHY101",
+						 "name": "General Physics",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 2
+					},
+					{
+						 "code": "CSC103",
+						 "name": "Database Systems",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3
+					},
+					{
+						 "code": "CSC103L",
+						 "name": "Database Systems Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 2.3
+					},
+					{
+						 "code": "CSC308",
+						 "name": "Networking",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3
+					},
+					{
+						 "code": "CSC307",
+						 "name": "System Analysis and Design",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3
+					},
+					{
+						 "code": "CSC224",
+						 "name": "Introduction to Robotics and IOT",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "AGCV250",
+						 "name": "الفنون الإعلانية والتواصل البصري 3",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 4
+					}
+			  ],
+			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=135&type=1&appId=34338",
+			  "totalCreditsAttempted": "16",
+			  "totalCreditsPassed": 16,
+			  "averageGrade": 3.08
+		 },
+		 {
+			  "semester": "Fall  2023 - 2024",
+			  "courses": [
+					{
+						 "code": "AGCV255",
+						 "name": "الرسم الإيضاحي",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 4
+					},
+					{
+						 "code": "LIT125",
+						 "name": "English Language II or French Language II",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 3.3
+					},
+					{
+						 "code": "SPT100",
+						 "name": "التربية البدنية و الرياضية",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 3.3
+					},
+					{
+						 "code": "CSC211",
+						 "name": "Operating Systems",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "CSC211L",
+						 "name": "Operating Systems Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "SCI001",
+						 "name": "Introduction to Cyber Security",
+						 "credits": 3,
+						 "type": "Elective",
+						 "grade": 4
+					},
+					{
+						 "code": "MAT210",
+						 "name": "Operation Research",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3.3
+					}
+			  ],
+			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=133&type=1&appId=34338",
+			  "totalCreditsAttempted": "18",
+			  "totalCreditsPassed": 18,
+			  "averageGrade": 3.53
+		 },
+		 {
+			  "semester": "Spring  2022 - 2023",
+			  "courses": [
+					{
+						 "code": "LIT120",
+						 "name": "English Language I or French Language I",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 2.3
+					},
+					{
+						 "code": "LIT105",
+						 "name": "الحضارة العربية",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 2.3
+					},
+					{
+						 "code": "CSC209",
+						 "name": "Web Programming I",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC213",
+						 "name": "Visual Programming",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC210",
+						 "name": "Object Oriented Programming",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3.3
+					}
+			  ],
+			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=127&type=1&appId=34338",
+			  "totalCreditsAttempted": "13",
+			  "totalCreditsPassed": 13,
+			  "averageGrade": 3.05
+		 },
+		 {
+			  "semester": "Fall  2022 - 2023",
+			  "courses": [
+					{
+						 "code": "MAT108",
+						 "name": "Linear Algebra",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "CSC102",
+						 "name": "Logic Design",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC215",
+						 "name": "E-Business",
+						 "credits": 3,
+						 "type": "Faculty",
+						 "grade": 3.3
+					},
+					{
+						 "code": "ADM105",
+						 "name": "Introduction to Information Technology",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC101",
+						 "name": "Programming I",
+						 "credits": 2,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "CSC101L",
+						 "name": "Programming I Lab",
+						 "credits": 1,
+						 "type": "Faculty",
+						 "grade": 4
+					},
+					{
+						 "code": "LIT110",
+						 "name": "Arabic Language I",
+						 "credits": 3,
+						 "type": "General",
+						 "grade": 3.3
+					}
+			  ],
+			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=125&type=1&appId=34338",
+			  "totalCreditsAttempted": "17",
+			  "totalCreditsPassed": 17,
+			  "averageGrade": 3.67
+		 }
+	],
+	"transcript": {
+		 "totaltransfer": "9",
+		 "totalCredits": "64",
+		 "majorAverage": "87.37",
+		 "average": "87.55",
+		 "transferred": [
+			  {
+					"code": "BIT308",
+					"name": "Introduction to Programming",
+					"credits": "3"
+			  },
+			  {
+					"code": "STAT102",
+					"name": "Probability & Statistics",
+					"credits": "3"
+			  },
+			  {
+					"code": "MAT107",
+					"name": "Calculus",
+					"credits": "3"
+			  }
+		 ],
+		 "semesters": [
+			  {
+					"title": "Fall  2022 - 2023",
+					"courses": [
+						 {
+							  "code": "ADM105",
+							  "name": "Introduction to Information Technology",
+							  "credits": "3",
+							  "grade": "A+",
+							  "average": "97"
+						 },
+						 {
+							  "code": "CSC101",
+							  "name": "Programming I",
+							  "credits": "2",
+							  "grade": "A+",
+							  "average": "96"
+						 },
+						 {
+							  "code": "CSC101L",
+							  "name": "Programming I Lab",
+							  "credits": "1",
+							  "grade": "A+",
+							  "average": "100"
+						 },
+						 {
+							  "code": "CSC102",
+							  "name": "Logic Design",
+							  "credits": "3",
+							  "grade": "A+",
+							  "average": "99"
+						 },
+						 {
+							  "code": "CSC215",
+							  "name": "E-Business",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "88"
+						 },
+						 {
+							  "code": "LIT110",
+							  "name": "Arabic Language I",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "87"
+						 },
+						 {
+							  "code": "MAT108",
+							  "name": "Linear Algebra",
+							  "credits": "2",
+							  "grade": "B+",
+							  "average": "89"
+						 }
+					],
+					"current": {
+						 "attempted": "17",
+						 "passed": "17",
+						 "average": "93.12"
+					},
+					"cumulative": {
+						 "attempted": "17",
+						 "passed": "17",
+						 "average": "93.12"
+					}
+			  },
+			  {
+					"title": "Spring  2022 - 2023",
+					"courses": [
+						 {
+							  "code": "CSC209",
+							  "name": "Web Programming I",
+							  "credits": "2",
+							  "grade": "A+",
+							  "average": "96"
+						 },
+						 {
+							  "code": "CSC210",
+							  "name": "Object Oriented Programming",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "85"
+						 },
+						 {
+							  "code": "CSC213",
+							  "name": "Visual Programming",
+							  "credits": "2",
+							  "grade": "A+",
+							  "average": "100"
+						 },
+						 {
+							  "code": "LIT105",
+							  "name": "الحضارة العربية",
+							  "credits": "3",
+							  "grade": "C+",
+							  "average": "77"
+						 },
+						 {
+							  "code": "LIT120",
+							  "name": "English Language I or French Language I",
+							  "credits": "3",
+							  "grade": "C+",
+							  "average": "77"
+						 }
+					],
+					"current": {
+						 "attempted": "13",
+						 "passed": "13",
+						 "average": "85.31"
+					},
+					"cumulative": {
+						 "attempted": "30",
+						 "passed": "30",
+						 "average": "89.73"
+					}
+			  },
+			  {
+					"title": "Fall  2023 - 2024",
+					"courses": [
+						 {
+							  "code": "AGCV255",
+							  "name": "الرسم الإيضاحي",
+							  "credits": "3",
+							  "grade": "A",
+							  "average": "94"
+						 },
+						 {
+							  "code": "CSC211",
+							  "name": "Operating Systems",
+							  "credits": "2",
+							  "grade": "B+",
+							  "average": "85"
+						 },
+						 {
+							  "code": "CSC211L",
+							  "name": "Operating Systems Lab",
+							  "credits": "1",
+							  "grade": "B+",
+							  "average": "86"
+						 },
+						 {
+							  "code": "LIT125",
+							  "name": "English Language II or French Language II",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "89"
+						 },
+						 {
+							  "code": "MAT210",
+							  "name": "Operation Research",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "85"
+						 },
+						 {
+							  "code": "SCI001",
+							  "name": "Introduction to Cyber Security",
+							  "credits": "3",
+							  "grade": "A",
+							  "average": "93"
+						 },
+						 {
+							  "code": "SPT100",
+							  "name": "التربية البدنية و الرياضية",
+							  "credits": "3",
+							  "grade": "B+",
+							  "average": "85"
+						 }
+					],
+					"current": {
+						 "attempted": "18",
+						 "passed": "18",
+						 "average": "88.56"
+					},
+					"cumulative": {
+						 "attempted": "48",
+						 "passed": "48",
+						 "average": "89.29"
+					}
+			  },
+			  {
+					"title": "Spring  2023 - 2024",
+					"courses": [
+						 {
+							  "code": "AGCV250",
+							  "name": "الفنون الإعلانية والتواصل البصري 3",
+							  "credits": "3",
+							  "grade": "A",
+							  "average": "91"
+						 },
+						 {
+							  "code": "CSC103",
+							  "name": "Database Systems",
+							  "credits": "2",
+							  "grade": "B",
+							  "average": "83"
+						 },
+						 {
+							  "code": "CSC103L",
+							  "name": "Database Systems Lab",
+							  "credits": "1",
+							  "grade": "C+",
+							  "average": "77"
+						 },
+						 {
+							  "code": "CSC224",
+							  "name": "Introduction to Robotics and IOT",
+							  "credits": "2",
+							  "grade": "A",
+							  "average": "93"
+						 },
+						 {
+							  "code": "CSC307",
+							  "name": "System Analysis and Design",
+							  "credits": "3",
+							  "grade": "B",
+							  "average": "80"
+						 },
+						 {
+							  "code": "CSC308",
+							  "name": "Networking",
+							  "credits": "2",
+							  "grade": "B",
+							  "average": "81"
+						 },
+						 {
+							  "code": "PHY101",
+							  "name": "General Physics",
+							  "credits": "3",
+							  "grade": "C",
+							  "average": "71"
+						 }
+					],
+					"current": {
+						 "attempted": "16",
+						 "passed": "16",
+						 "average": "82.31"
+					},
+					"cumulative": {
+						 "attempted": "64",
+						 "passed": "64",
+						 "average": "87.55"
+					}
+			  },
+			  {
+					"title": "Fall  2024 - 2025",
+					"courses": [
+						 {
+							  "code": "CSC104",
+							  "name": "Data Structures",
+							  "credits": "2",
+							  "grade": null,
+							  "average": null
+						 },
+						 {
+							  "code": "CSC104L",
+							  "name": "Data Structures Lab",
+							  "credits": "1",
+							  "grade": null,
+							  "average": null
+						 },
+						 {
+							  "code": "CSC216",
+							  "name": "Web Programming II",
+							  "credits": "3",
+							  "grade": null,
+							  "average": null
+						 },
+						 {
+							  "code": "CSC219",
+							  "name": "Enterprise Resource Planning",
+							  "credits": "3",
+							  "grade": null,
+							  "average": null
+						 },
+						 {
+							  "code": "CSC223",
+							  "name": "Artificial Intelligence with Python",
+							  "credits": "2",
+							  "grade": null,
+							  "average": null
+						 },
+						 {
+							  "code": "MAT101",
+							  "name": "Discrete Maths",
+							  "credits": "2",
+							  "grade": null,
+							  "average": null
+						 }
+					],
+					"current": {
+						 "attempted": "13",
+						 "passed": null,
+						 "average": null
+					},
+					"cumulative": {
+						 "attempted": "77",
+						 "passed": "64",
+						 "average": "87.55"
+					}
+			  }
+		 ]
+	},
+	"curriculum": {
+		 "general": [
+			  {
+					"code": "ADM105",
+					"title": "Introduction to Information Technology",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT105",
+					"title": "الحضارة العربية",
+					"credits": 3,
+					"semester": "Spring  2022 - 2023 (C+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT110",
+					"title": "Arabic Language I",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT120",
+					"title": "English Language I or French Language I",
+					"credits": 3,
+					"semester": "Spring  2022 - 2023 (C+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT125",
+					"title": "English Language II or French Language II",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  }
+		 ],
+		 "elective": [
+			  {
+					"code": "BIT308",
+					"title": "Introduction to Programming",
+					"credits": 3,
+					"semester": "Transfer",
+					"status": "Transfer"
+			  },
+			  {
+					"code": "AGCV250",
+					"title": "الفنون الإعلانية والتواصل البصري 3",
+					"credits": 3,
+					"semester": "Spring  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "AGCV255",
+					"title": "الرسم الإيضاحي",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "SPT100",
+					"title": "التربية البدنية و الرياضية",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "SCI001",
+					"title": "Introduction to Cyber Security",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  }
+		 ],
+		 "major": [
+			  {
+					"code": "MAT107",
+					"title": "Calculus",
+					"credits": 3,
+					"semester": "Transfer",
+					"status": "Transfer"
+			  },
+			  {
+					"code": "STAT102",
+					"title": "Probability & Statistics",
+					"credits": 3,
+					"semester": "Transfer",
+					"status": "Transfer"
+			  },
+			  {
+					"code": "PHY101",
+					"title": "General Physics",
+					"credits": 3,
+					"semester": "Spring  2023 - 2024 (C/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC307",
+					"title": "System Analysis and Design",
+					"credits": 3,
+					"semester": "Spring  2023 - 2024 (B/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC101",
+					"title": "Programming I",
+					"credits": 2,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC101L",
+					"title": "Programming I Lab",
+					"credits": 1,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC102",
+					"title": "Logic Design",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC103",
+					"title": "Database Systems",
+					"credits": 2,
+					"semester": "Spring  2023 - 2024 (B/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC103L",
+					"title": "Database Systems Lab",
+					"credits": 1,
+					"semester": "Spring  2023 - 2024 (C+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC210",
+					"title": "Object Oriented Programming",
+					"credits": 3,
+					"semester": "Spring  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC211",
+					"title": "Operating Systems",
+					"credits": 2,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC211L",
+					"title": "Operating Systems Lab",
+					"credits": 1,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC209",
+					"title": "Web Programming I",
+					"credits": 2,
+					"semester": "Spring  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "MAT108",
+					"title": "Linear Algebra",
+					"credits": 2,
+					"semester": "Fall  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "MAT210",
+					"title": "Operation Research",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC213",
+					"title": "Visual Programming",
+					"credits": 2,
+					"semester": "Spring  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC215",
+					"title": "E-Business",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC308",
+					"title": "Networking",
+					"credits": 2,
+					"semester": "Spring  2023 - 2024 (B/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC224",
+					"title": "Introduction to Robotics and IOT",
+					"credits": 2,
+					"semester": "Spring  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC104",
+					"title": "Data Structures",
+					"credits": 2,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC104L",
+					"title": "Data Structures Lab",
+					"credits": 1,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "MAT101",
+					"title": "Discrete Maths",
+					"credits": 2,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC216",
+					"title": "Web Programming II",
+					"credits": 3,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC219",
+					"title": "Enterprise Resource Planning",
+					"credits": 3,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC223",
+					"title": "Artificial Intelligence with Python",
+					"credits": 2,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC390",
+					"title": "Graduation Project",
+					"credits": 2,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "CSC212",
+					"title": "Mobile Applications",
+					"credits": 3,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "MAT310",
+					"title": "Numerical Computation",
+					"credits": 2,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "CSC220",
+					"title": "EnterpreneurShip for Science",
+					"credits": 3,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "CSC222",
+					"title": "Machine Learning with Python",
+					"credits": 2,
+					"semester": "New",
+					"status": "New"
+			  }
+		 ],
+		 "totalGeneral": 15,
+		 "totalElective": 15,
+		 "totalMajor": 68,
+		 "totals": [
+			  {
+					"title": "Required Credits to Graduate (Major Contract Sheet)",
+					"credits": 98
+			  },
+			  {
+					"title": "Required Credits to Graduate (Student Curriculum)",
+					"credits": 98
+			  },
+			  {
+					"title": "Required Remedial Credits",
+					"credits": 0
+			  },
+			  {
+					"title": "Granted Credits from BACCII or Freshman",
+					"credits": 0
+			  },
+			  {
+					"title": "Transfered credits",
+					"credits": 9
+			  },
+			  {
+					"title": "Attempted Credits",
+					"credits": 77
+			  },
+			  {
+					"title": "Passed",
+					"credits": 64
+			  },
+			  {
+					"title": "Remaining Credits",
+					"credits": 25
+			  }
+		 ]
+	},
+	"payments": [
+		 {
+			  "semester": "Fall  2024 - 2025",
+			  "courses": [
+					{
+						 "code": "MAT101",
+						 "name": "Discrete Maths",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC104",
+						 "name": "Data Structures",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC104L",
+						 "name": "Data Structures Lab",
+						 "credits": 1,
+						 "fee": "80\t",
+						 "aid": "0%",
+						 "net_fee": "80\t"
+					},
+					{
+						 "code": "CSC223",
+						 "name": "Artificial Intelligence with Python",
+						 "credits": 2,
+						 "fee": "160\t",
+						 "aid": "0%",
+						 "net_fee": "160\t"
+					},
+					{
+						 "code": "CSC216",
+						 "name": "Web Programming II",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC219",
+						 "name": "Enterprise Resource Planning",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					}
+			  ],
+			  "payments": [
+					{
+						 "bank_no": "558113",
+						 "amount": "300",
+						 "date": "28-08-2024",
+						 "due": "2024-09-02",
+						 "status": "2024-09-10",
+						 "link": ""
+					},
+					{
+						 "bank_no": "560909",
+						 "amount": "137",
+						 "date": "02-10-2024",
+						 "due": "2024-10-02",
+						 "status": "",
+						 "link": "https://jinansystem.com/student/MyPayments/stdVoucherDetails.php?VId=560909&stdVType=2&semId=139"
+					},
+					{
+						 "bank_no": "560910",
+						 "amount": "137",
+						 "date": "02-10-2024",
+						 "due": "2024-11-02",
+						 "status": "",
+						 "link": "https://jinansystem.com/student/MyPayments/stdVoucherDetails.php?VId=560910&stdVType=3&semId=139"
+					},
+					{
+						 "bank_no": "560911",
+						 "amount": "117",
+						 "date": "02-10-2024",
+						 "due": "2024-12-02",
+						 "status": "",
+						 "link": "https://jinansystem.com/student/MyPayments/stdVoucherDetails.php?VId=560911&stdVType=4&semId=139"
+					}
+			  ],
+			  "details": {
+					"account": [
+						 {
+							  "title": "Credit Price",
+							  "amount": "80.00"
+						 },
+						 {
+							  "title": "Tuition Fees",
+							  "amount": "1040"
+						 },
+						 {
+							  "title": "Registration Fee",
+							  "amount": "200"
+						 },
+						 {
+							  "title": "Financial Aid",
+							  "amount": "800"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Late Payment Penalty",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "250"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hosptial Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments LL",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments $",
+							  "amount": "300.00"
+						 },
+						 {
+							  "title": "JAS Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "JAS Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Bank Payments",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Total Tuition",
+							  "amount": "690"
+						 },
+						 {
+							  "title": "Total Financial Aid",
+							  "amount": "800"
+						 },
+						 {
+							  "title": "Total Paid",
+							  "amount": "300"
+						 },
+						 {
+							  "title": "Balance",
+							  "amount": "390"
+						 }
+					],
+					"manual": [
+						 null,
+						 {
+							  "title": "Additional Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Addition",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Deduction",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hospital Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Attestation Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Defence and Certificate Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Semester Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "MHE Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Proof Reading Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Statistical Services Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Change Major Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 }
+					]
+			  }
+		 },
+		 {
+			  "semester": "Spring  2023 - 2024",
+			  "courses": [
+					{
+						 "code": "PHY101",
+						 "name": "General Physics",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC103",
+						 "name": "Database Systems",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC103L",
+						 "name": "Database Systems Lab",
+						 "credits": 1,
+						 "fee": "60\t",
+						 "aid": "0%",
+						 "net_fee": "60\t"
+					},
+					{
+						 "code": "CSC308",
+						 "name": "Networking",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC307",
+						 "name": "System Analysis and Design",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC224",
+						 "name": "Introduction to Robotics and IOT",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "AGCV250",
+						 "name": "الفنون الإعلانية والتواصل البصري 3",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					}
+			  ],
+			  "payments": [
+					{
+						 "bank_no": "536308",
+						 "amount": "300",
+						 "date": "14-01-2024",
+						 "due": "2024-02-01",
+						 "status": "2024-02-08",
+						 "link": ""
+					},
+					{
+						 "bank_no": "553392",
+						 "amount": "210",
+						 "date": "07-05-2024",
+						 "due": "2024-05-07",
+						 "status": "2024-05-07",
+						 "link": ""
+					}
+			  ],
+			  "details": {
+					"account": [
+						 {
+							  "title": "Credit Price",
+							  "amount": "60.00"
+						 },
+						 {
+							  "title": "Tuition Fees",
+							  "amount": "960"
+						 },
+						 {
+							  "title": "Registration Fee",
+							  "amount": "200"
+						 },
+						 {
+							  "title": "Financial Aid",
+							  "amount": "900"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Late Payment Penalty",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "250"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hosptial Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments LL",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments $",
+							  "amount": "510.00"
+						 },
+						 {
+							  "title": "JAS Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "JAS Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Bank Payments",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Total Tuition",
+							  "amount": "510"
+						 },
+						 {
+							  "title": "Total Financial Aid",
+							  "amount": "900"
+						 },
+						 {
+							  "title": "Total Paid",
+							  "amount": "510"
+						 },
+						 {
+							  "title": "Balance",
+							  "amount": "0"
+						 }
+					],
+					"manual": [
+						 null,
+						 {
+							  "title": "Additional Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Addition",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Deduction",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hospital Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Attestation Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Defence and Certificate Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Semester Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "MHE Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Proof Reading Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Statistical Services Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Change Major Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 }
+					]
+			  }
+		 },
+		 {
+			  "semester": "Fall  2023 - 2024",
+			  "courses": [
+					{
+						 "code": "AGCV255",
+						 "name": "الرسم الإيضاحي",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "LIT125",
+						 "name": "English Language II or French Language II",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "SPT100",
+						 "name": "التربية البدنية و الرياضية",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC211",
+						 "name": "Operating Systems",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC211L",
+						 "name": "Operating Systems Lab",
+						 "credits": 1,
+						 "fee": "120\t",
+						 "aid": "0%",
+						 "net_fee": "120\t"
+					},
+					{
+						 "code": "SCI001",
+						 "name": "Introduction to Cyber Security",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "MAT210",
+						 "name": "Operation Research",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					}
+			  ],
+			  "payments": [
+					{
+						 "bank_no": "501381",
+						 "amount": "225",
+						 "date": "29-08-2023",
+						 "due": "2023-09-04",
+						 "status": "2023-09-05",
+						 "link": ""
+					},
+					{
+						 "bank_no": "526896",
+						 "amount": "15",
+						 "date": "07-11-2023",
+						 "due": "2023-10-04",
+						 "status": "2023-11-07",
+						 "link": ""
+					},
+					{
+						 "bank_no": "526898",
+						 "amount": "383",
+						 "date": "07-11-2023",
+						 "due": "2023-10-04",
+						 "status": "2023-11-07",
+						 "link": ""
+					},
+					{
+						 "bank_no": "526897",
+						 "amount": "15",
+						 "date": "07-11-2023",
+						 "due": "2023-11-04",
+						 "status": "2023-12-07",
+						 "link": ""
+					},
+					{
+						 "bank_no": "526899",
+						 "amount": "382",
+						 "date": "07-11-2023",
+						 "due": "2023-11-04",
+						 "status": "2023-12-07",
+						 "link": ""
+					},
+					{
+						 "bank_no": "E65883",
+						 "amount": "510",
+						 "date": "07-12-2023",
+						 "due": "2023-12-07",
+						 "status": "2023-12-07 11:40:23",
+						 "link": ""
+					}
+			  ],
+			  "details": {
+					"account": [
+						 {
+							  "title": "Credit Price",
+							  "amount": "120.00"
+						 },
+						 {
+							  "title": "Tuition Fees",
+							  "amount": "2160"
+						 },
+						 {
+							  "title": "Registration Fee",
+							  "amount": "400"
+						 },
+						 {
+							  "title": "Financial Aid",
+							  "amount": "2040"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "510"
+						 },
+						 {
+							  "title": "Late Payment Penalty",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "500"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hosptial Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments LL",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments $",
+							  "amount": "255.00"
+						 },
+						 {
+							  "title": "JAS Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "JAS Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments LBP",
+							  "amount": "1275.00"
+						 },
+						 {
+							  "title": "Transfer Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Bank Payments",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Total Tuition",
+							  "amount": "1530"
+						 },
+						 {
+							  "title": "Total Financial Aid",
+							  "amount": "2040"
+						 },
+						 {
+							  "title": "Total Paid",
+							  "amount": "1530"
+						 },
+						 {
+							  "title": "Balance",
+							  "amount": "0"
+						 }
+					],
+					"manual": [
+						 null,
+						 {
+							  "title": "Additional Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Addition",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Deduction",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "510"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hospital Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Attestation Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Defence and Certificate Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Semester Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "MHE Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Proof Reading Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Statistical Services Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Change Major Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 }
+					]
+			  }
+		 },
+		 {
+			  "semester": "Spring  2022 - 2023",
+			  "courses": [
+					{
+						 "code": "LIT120",
+						 "name": "English Language I or French Language I",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "LIT105",
+						 "name": "الحضارة العربية",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC209",
+						 "name": "Web Programming I",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC213",
+						 "name": "Visual Programming",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC210",
+						 "name": "Object Oriented Programming",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					}
+			  ],
+			  "payments": [
+					{
+						 "bank_no": "478198",
+						 "amount": "80",
+						 "date": "15-02-2023",
+						 "due": "2023-02-20",
+						 "status": "2023-03-08",
+						 "link": ""
+					},
+					{
+						 "bank_no": "493656",
+						 "amount": "80",
+						 "date": "13-05-2023",
+						 "due": "2023-03-08",
+						 "status": "2023-05-13",
+						 "link": ""
+					},
+					{
+						 "bank_no": "493657",
+						 "amount": "540",
+						 "date": "13-05-2023",
+						 "due": "2023-04-08",
+						 "status": "2023-05-20",
+						 "link": ""
+					},
+					{
+						 "bank_no": "E51858",
+						 "amount": "2128",
+						 "date": "11-05-2023",
+						 "due": "2023-06-08",
+						 "status": "2023-05-20 08:42:06",
+						 "link": ""
+					}
+			  ],
+			  "details": {
+					"account": [
+						 {
+							  "title": "Credit Price",
+							  "amount": "120.00"
+						 },
+						 {
+							  "title": "Tuition Fees",
+							  "amount": "1560"
+						 },
+						 {
+							  "title": "Registration Fee",
+							  "amount": "300"
+						 },
+						 {
+							  "title": "Financial Aid",
+							  "amount": "1560"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "2128"
+						 },
+						 {
+							  "title": "Late Payment Penalty",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "400"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hosptial Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments LL",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments $",
+							  "amount": "160.00"
+						 },
+						 {
+							  "title": "JAS Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "JAS Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments LBP",
+							  "amount": "2668.00"
+						 },
+						 {
+							  "title": "Transfer Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Bank Payments",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Total Tuition",
+							  "amount": "2828"
+						 },
+						 {
+							  "title": "Total Financial Aid",
+							  "amount": "1560"
+						 },
+						 {
+							  "title": "Total Paid",
+							  "amount": "2828"
+						 },
+						 {
+							  "title": "Balance",
+							  "amount": "0"
+						 }
+					],
+					"manual": [
+						 null,
+						 {
+							  "title": "Additional Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Addition",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Deduction",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "2128"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hospital Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Attestation Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Defence and Certificate Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Semester Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "MHE Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Proof Reading Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Statistical Services Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Change Major Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 }
+					]
+			  }
+		 },
+		 {
+			  "semester": "Fall  2022 - 2023",
+			  "courses": [
+					{
+						 "code": "MAT108",
+						 "name": "Linear Algebra",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC102",
+						 "name": "Logic Design",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC215",
+						 "name": "E-Business",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "ADM105",
+						 "name": "Introduction to Information Technology",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC101",
+						 "name": "Programming I",
+						 "credits": 2,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "CSC101L",
+						 "name": "Programming I Lab",
+						 "credits": 1,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					},
+					{
+						 "code": "LIT110",
+						 "name": "Arabic Language I",
+						 "credits": 3,
+						 "fee": "0\t",
+						 "aid": "100%",
+						 "net_fee": "0\t"
+					}
+			  ],
+			  "payments": [
+					{
+						 "bank_no": "437539",
+						 "amount": "700",
+						 "date": "17-09-2022",
+						 "due": "2022-09-15",
+						 "status": "2022-10-04",
+						 "link": ""
+					},
+					{
+						 "bank_no": "E44082",
+						 "amount": "1098",
+						 "date": "26-11-2022",
+						 "due": "2022-12-15",
+						 "status": "2023-01-03 09:54:25",
+						 "link": ""
+					},
+					{
+						 "bank_no": "475086",
+						 "amount": "395",
+						 "date": "03-01-2023",
+						 "due": "2023-01-03",
+						 "status": "2023-01-03",
+						 "link": ""
+					}
+			  ],
+			  "details": {
+					"account": [
+						 {
+							  "title": "Credit Price",
+							  "amount": "120.00"
+						 },
+						 {
+							  "title": "Tuition Fees",
+							  "amount": "2040"
+						 },
+						 {
+							  "title": "Registration Fee",
+							  "amount": "300"
+						 },
+						 {
+							  "title": "Financial Aid",
+							  "amount": "2040"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "1098"
+						 },
+						 {
+							  "title": "Late Payment Penalty",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "400"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hosptial Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments LL",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "University Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "JAS Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "JAS Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Transfer Payments LBP",
+							  "amount": "2193.00"
+						 },
+						 {
+							  "title": "Transfer Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments LBP",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Saida Payments $",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Bank Payments",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Total Tuition",
+							  "amount": "1798"
+						 },
+						 {
+							  "title": "Total Financial Aid",
+							  "amount": "2040"
+						 },
+						 {
+							  "title": "Total Paid",
+							  "amount": "2193"
+						 },
+						 {
+							  "title": "Balance",
+							  "amount": "-395"
+						 }
+					],
+					"manual": [
+						 null,
+						 {
+							  "title": "Additional Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Financial Aid",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Deduction Tuition Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Addition",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "General Deduction",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Difference of Exchange",
+							  "amount": "1098"
+						 },
+						 {
+							  "title": "Libraries, Internet, Activities, Print Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Operating, Laboratory and Practicum Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Re-examination Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Seminars and Research Fee",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Hospital Insurance Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Attestation Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Defence and Certificate Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Additional Semester Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "MHE Fees",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Proof Reading Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Statistical Services Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Change Major Fees",
+							  "amount": "0"
+						 },
+						 null,
+						 {
+							  "title": "Automation System",
+							  "amount": "0"
+						 },
+						 {
+							  "title": "Social Security",
+							  "amount": "-395"
+						 }
+					]
+			  }
+		 }
+	]
+}

@@ -5,12 +5,13 @@ import { useEffect, useState } from "react";
 import Loading from "@components/Loading";
 import Profile from "@/components/Profile";
 import Semester from "@/components/Semester";
-import Transcript from "@/components/Curriculum";
+import Curriculum from "@/components/Curriculum";
 
 export default function CurriculumPage() {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
 	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
+	const [animate, setAnimate] = useState(false);
 
 	useEffect(() => {
 		if (typeof window !== "undefined") {
@@ -33,18 +34,14 @@ export default function CurriculumPage() {
 		}
 	}, [router]);
 
+	useEffect(() => {
+		setTimeout(() => setAnimate(true), 100);
+	}, []);
+
 	// Filter courses based on selected semester
 	const coursesForSelectedSemester = data?.courses.find(
 		(course) => course.semester === selectedSemester
 	);
-
-	// Log only if data and coursesForSelectedSemester are available
-	if (coursesForSelectedSemester) {
-		console.log(
-			"total ",
-			coursesForSelectedSemester?.totalCreditsAttempted
-		);
-	}
 
 	if (!data || !coursesForSelectedSemester) {
 		// Avoid rendering the component or logging when data isn't fully loaded yet
@@ -52,7 +49,7 @@ export default function CurriculumPage() {
 	}
 
 	return (
-		<div className="flex flex-col h-screen">
+		<div className="flex flex-col min-h-screen">
 			<Navbar faculty={data.profile.faculty} />
 			<div className="flex-grow flex p-5 pt-1 gap-6">
 				{/* Display courses for the selected semester */}
@@ -68,49 +65,33 @@ export default function CurriculumPage() {
 					schedule={coursesForSelectedSemester.scheduleLink}
 				/>
 				{/* transcript */}
-				<div className="flex-grow flex flex-col gap-4">
-					<Transcript />
-					<Transcript />
+				<div className={`flex-grow flex flex-col gap-4 transform transition-all duration-300 ease
+					 ${animate ? "translate-y-0 opacity-100" : "translate-y-3 opacity-0"}
+					`}>
+					<Curriculum
+						title="general education requirements"
+						courses={data.curriculum.general}
+						total={data.curriculum.totalGeneral}
+					/>
+					<Curriculum
+						title="general education electives"
+						courses={data.curriculum.elective}
+						total={data.curriculum.totalElective}
+					/>
+					<Curriculum
+						title="faculty & major requirements"
+						courses={data.curriculum.major}
+						total={data.curriculum.totalMajor}
+					/>
 
 					{/* totals */}
-					<div>
-						<table className="w-full">
-							{/* header */}
-							<thead className="bg-light text-white">
-								<tr className="capitalize text-lg text-yellow">
-									<th
-										colSpan="4"
-										className="pt-2 font-medium rounded-t-xl"
-									></th>
-								</tr>
-								<tr className="text-yellow text-sm text-left relative capitalize">
-									<th className="px-2 pb-2 font-medium w-1/4">
-										transfer courses
-									</th>
-									<th className="px-2 pb-2 font-medium w-1/4">
-										total credits
-									</th>
-									<th className="px-2 pb-2 font-medium w-1/4">
-										major average
-									</th>
-									<th className="px-2 pb-2 font-medium w-1/4">
-										average
-									</th>
-								</tr>
-							</thead>
-							<tbody className="font-medium text-dark bg-light text-lg">
-								<tr className="capitalize text-yellow">
-									<td className="px-2 pb-2 font-medium rounded-bl-lg">
-										9
-									</td>
-									<td className="px-2 pb-2">9</td>
-									<td className="px-2 pb-2">9</td>
-									<td className="px-2 pb-2 rounded-br-lg">
-										10
-									</td>
-								</tr>
-							</tbody>
-						</table>
+					<div className="grid grid-cols-4 bg-darkt p-4 px-6 rounded-xl gap-2 items-end">
+						{data.curriculum.totals.map((total, index) => (
+							<div className="stack" key={index}>
+								<p>{total.title}</p>
+								<p>{total.credits}</p>
+							</div>
+						))}
 					</div>
 				</div>
 			</div>

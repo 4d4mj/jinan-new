@@ -4,14 +4,12 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import Loading from "@components/Loading";
 import Profile from "@/components/Profile";
-import Semester from "@/components/Semester";
-import Transcript from "@/components/Transcript";
-import Transferred from "@/components/Transferred";
+import Manual from "@/components/Manual";
 
-export default function TranscriptPage() {
+export default function RegistrationPage() {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
-	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
+	const [selectedSemester, setSelectedSemester] = useState("");
 	const [animate, setAnimate] = useState(false);
 
 	useEffect(() => {
@@ -49,8 +47,41 @@ export default function TranscriptPage() {
 		return <Loading />;
 	}
 
+	const links = [
+		{
+			title: "UMS Student Guide",
+			arabic: "دليل الطالب",
+			link: "https://jinansystem.com/student/MyManual/UMSStdMan.pdf",
+		},
+		{
+			title: "Student Discipline System",
+			arabic: "نظام الانضباط الطلابي",
+			link: "https://jinansystem.com/student/MyManual/studentrules.jpeg",
+		},
+		{
+			title: "Student Registration Guide",
+			arabic: "دليل الطالب لمرحلة التسجيل",
+			link: "https://jinansystem.com/student/MyManual/StudentGuidePart1.pdf",
+		},
+		{
+			title: "Student Start-Up Guide",
+			arabic: "دليل الطالب لمرحلة بدء الدراسة",
+			link: "https://jinansystem.com/student/MyManual/StudentGuidePart2.pdf",
+		},
+		{
+			title: "Student Financial Guide",
+			arabic: "دليل الطالب المالي",
+			link: "https://youtu.be/I9IrNYPENLA",
+		},
+		{
+			title: "Student Email Activation Guide",
+			arabic: "كيفية تفعيل البريد الالكتروني الجامعي",
+			link: "https://youtu.be/ibEcq4m1TxE",
+		},
+	];
+
 	return (
-		<div className="flex flex-col min-h-screen">
+		<div className="flex flex-col h-screen">
 			<Navbar faculty={data.profile.faculty} />
 			<div className="flex-grow flex p-5 pt-1 gap-6">
 				{/* Display courses for the selected semester */}
@@ -65,45 +96,17 @@ export default function TranscriptPage() {
 					average={coursesForSelectedSemester.averageGrade}
 					schedule={coursesForSelectedSemester.scheduleLink}
 				/>
-				{/* transcript */}
-				<div className={`flex-grow flex flex-col gap-4 transform transition-all duration-300 ease
+				<div className={`flex-grow grid grid-cols-3 gap-4 grid-rows-3 transform transition-all duration-300 ease
 					 ${animate ? "translate-y-0 opacity-100" : "translate-y-3 opacity-0"}
 					`}>
-					<Transferred
-						transferred={data.transcript.transferred}
-						totaltransfer={data.transcript.totaltransfer}
-					/>
-					{/* <Transcript /> */}
-					{data.transcript.semesters.map((semester) => (
-						<Transcript semester={semester} key={semester.title} />
+					{links.map((link, index) => (
+						<Manual
+							key={index}
+							title={link.title}
+							arabic={link.arabic}
+							link={link.link}
+						/>
 					))}
-
-					{/* totals */}
-					<div>
-						<div className="flex justify-between p-4 bg-darkt rounded-xl px-6">
-							<div className="stack">
-								<p>transferred credits</p>
-								<p>{data.transcript.totaltransfer}</p>
-							</div>
-							<div className="stack">
-								<p>total credits</p>
-								<p>{data.transcript.totalCredits}</p>
-							</div>
-							<div className="stack">
-								<p>major average</p>
-								<p>{data.transcript.majorAverage}</p>
-							</div>
-							<div className="stack">
-								<p>average</p>
-								<p>{data.transcript.average}</p>
-							</div>
-						</div>
-						<div className="flex justify-end mt-1">
-							<a href="https://jinansystem.com/student/MyTranscript/transcriptPF.php" target="blank" className="text-xs font-medium text-dark underline capitalize">
-								printer friendly
-							</a>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>

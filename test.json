@@ -1,5 +1,5 @@
 {
-	"sessionId": "5f975331-0060-40e1-8455-b9f28885a016",
+	"sessionId": "d647db18-23aa-45c4-988d-6684cf8ea287",
 	"profile": {
 		 "id": "10220398",
 		 "major": "Computer Science",
@@ -23,321 +23,42 @@
 						 "name": "Discrete Maths",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 0,
-						 "section": "A",
-						 "instructor": "Miss  Hanan  Hijazi",
-						 "room": "105",
-						 "schedule": "Monday(10:05:00-12:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=120646&offering=32413",
-									"file": "MAT101_Discrete Math_ Introduction-120646.pdf",
-									"description": "chapter 1",
-									"date": "28-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=120647&offering=32413",
-									"file": "MAT101_Discrete Math_ Ch1-120647.pptx",
-									"description": "chapter1",
-									"date": "28-Sep-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "grades": []
+						 "grade": 0
 					},
 					{
 						 "code": "CSC104",
 						 "name": "Data Structures",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 0,
-						 "section": "C",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "110",
-						 "schedule": "Thursday(10:05:00-11:00:00) ● Thursday(12:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=119655&offering=32428",
-									"file": "Syllabus CSC104-Data_Strucutre(C) Fall 2024_Hoblos Ziad-119655.pdf",
-									"description": "Syllabus",
-									"date": "23-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=120200&offering=32428",
-									"file": "chapter1_intro-120200.pdf",
-									"description": "Chapter1",
-									"date": "24-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=120201&offering=32428",
-									"file": "chapter2_array-120201.pdf",
-									"description": "Chapter2",
-									"date": "24-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=120203&offering=32428",
-									"file": "ArrayList exercises-120203.pdf",
-									"description": "ArrayList exercises",
-									"date": "24-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=122678&offering=32428",
-									"file": "Review exercise-122678.pdf",
-									"description": "Extra Exercise",
-									"date": "10-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=122679&offering=32428",
-									"file": "chapter3_search-122679.pdf",
-									"description": "Chapter3",
-									"date": "10-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://drive.google.com/file/d/1DnUvynk2zCwN-7zq5cEZRFqyqcxBZfor/view?usp=drive_link",
-									"file": "https://drive.google.com/file/d/1DnUvynk2zCwN-7zq5cEZRFqyqcxBZfor/view?usp=drive_link",
-									"description": "Search Algo (Voice)",
-									"date": "20-Oct-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "14-12-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Quizzes and Class Activities",
-									"percentage": "20%",
-									"date": "14-12-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "09-11-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "28-12-2024",
-									"grade": ""
-							  }
-						 ]
+						 "grade": 0
 					},
 					{
 						 "code": "CSC104L",
 						 "name": "Data Structures Lab",
 						 "credits": 1,
 						 "type": "Faculty",
-						 "grade": 0,
-						 "section": "C",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "110",
-						 "schedule": "Thursday(13:05:00-14:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=119656&offering=32429",
-									"file": "Syllabus CSC104-Data_Strucutre_Lab(C) Fall 2024_Hoblos Ziad-119656.pdf",
-									"description": "Syllabus",
-									"date": "23-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=120204&offering=32429",
-									"file": "ArrayList exercises-120204.pdf",
-									"description": "Lab1",
-									"date": "24-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=123150&offering=32429",
-									"file": "Review exercise-123150.pdf",
-									"description": "Lab2",
-									"date": "12-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=123156&offering=32429",
-									"file": "ArrayList_Exercise3-123156.pdf",
-									"description": "Lab3",
-									"date": "12-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://drive.google.com/file/d/1DnUvynk2zCwN-7zq5cEZRFqyqcxBZfor/view?usp=drive_link",
-									"file": "https://drive.google.com/file/d/1DnUvynk2zCwN-7zq5cEZRFqyqcxBZfor/view?usp=drive_link",
-									"description": "Search Algo (Voice)",
-									"date": "20-Oct-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "14-12-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Quizzes and Class Activities",
-									"percentage": "20%",
-									"date": "14-12-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "09-11-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "28-12-2024",
-									"grade": ""
-							  }
-						 ]
+						 "grade": 0
 					},
 					{
 						 "code": "CSC223",
 						 "name": "Artificial Intelligence with Python",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 0,
-						 "section": "A",
-						 "instructor": "Dr.  Rami  Safarjalani",
-						 "room": "112",
-						 "schedule": "Monday(12:05:00-14:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/jwnqqlz",
-									"file": "jwnqqlz",
-									"description": "Classroom Code",
-									"date": "22-Sep-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=123658&offering=32439",
-									"file": "AI-123658.txt",
-									"description": "Syllabus",
-									"date": "15-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=123678&offering=32439",
-									"file": "Chapter1_intro_to_AI-123678.pdf",
-									"description": "Chapter1",
-									"date": "15-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=123679&offering=32439",
-									"file": "Chapter2_intro_to_python-123679.pdf",
-									"description": "Chapter2",
-									"date": "15-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=123680&offering=32439",
-									"file": "Chapter3_python_dataType-123680.pdf",
-									"description": "Chapter3",
-									"date": "15-Oct-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "15-10-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Quiz & Participation",
-									"percentage": "20%",
-									"date": "29-10-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "12-11-2024",
-									"grade": ""
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "31-12-2024",
-									"grade": ""
-							  }
-						 ]
+						 "grade": 0
 					},
 					{
 						 "code": "CSC216",
 						 "name": "Web Programming II",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 0,
-						 "section": "D",
-						 "instructor": "Mr.  Ihab  Kamal Aldine",
-						 "room": "CS Lab 3",
-						 "schedule": "Saturday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=121537&offering=33047",
-									"file": "Syllabus Web Programming II Fall2024-121537.pdf",
-									"description": "Syllabus Web Programming II",
-									"date": "07-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=121541&offering=33047",
-									"file": "01- Web Programming II-121541.pdf",
-									"description": "Part 1: Web Programming II",
-									"date": "07-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=124518&offering=33047",
-									"file": "02- Web Programming II-124517.pdf",
-									"description": "Part 2: Web Programming II",
-									"date": "18-Oct-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "grades": []
+						 "grade": 0
 					},
 					{
 						 "code": "CSC219",
 						 "name": "Enterprise Resource Planning",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 0,
-						 "section": "B",
-						 "instructor": "Mrs.  Sara  Hamze",
-						 "room": "104",
-						 "schedule": "Tuesday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=121376&offering=33050",
-									"file": "CSC 219 ERP-121376.docx",
-									"description": "syllabus",
-									"date": "07-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=124627&offering=33050",
-									"file": "ERP ch 1-124627.pdf",
-									"description": "chapter 1",
-									"date": "19-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=124628&offering=33050",
-									"file": "ERP ch 2-124628.pptx",
-									"description": "chapter 2",
-									"date": "19-Oct-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=124629&offering=33050",
-									"file": "ERP ch 3-124629.pptx",
-									"description": "chapter 3",
-									"date": "19-Oct-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "grades": []
+						 "grade": 0
 					}
 			  ],
 			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=139&type=1&appId=34338",
@@ -353,773 +74,49 @@
 						 "name": "General Physics",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 2,
-						 "section": "A",
-						 "instructor": "Dr.  Bouchra  Rafei",
-						 "room": "113",
-						 "schedule": "Tuesday(13:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114372&offering=30991",
-									"file": "1st session-114372.pdf",
-									"description": "session1",
-									"date": "18-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114373&offering=30991",
-									"file": "session2Phy-101-114373.pdf",
-									"description": "session2",
-									"date": "18-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114374&offering=30991",
-									"file": "phy-114374.session3pdf",
-									"description": "session3",
-									"date": "18-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114375&offering=30991",
-									"file": "ch4Energy-114375.pdf",
-									"description": "session4",
-									"date": "18-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114673&offering=30991",
-									"file": "Ph101-Syllabus-Spring2024-114673.pdf",
-									"description": "Syllabus Phy101pdf",
-									"date": "20-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115571&offering=30991",
-									"file": "Solution of energy ex-115571.pdf",
-									"description": "Solution of work-energy exs. ",
-									"date": "27-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=116598&offering=30991",
-									"file": "Lecture 5_Fluid Statics-116598.pdf",
-									"description": "ch5:Fluid statics",
-									"date": "14-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117006&offering=30991",
-									"file": "Fluid Dynamics-117006.pdf",
-									"description": "ch6Fluid Dynamics",
-									"date": "21-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117307&offering=30991",
-									"file": "Ch7-Electric Circuits-117307.pdf",
-									"description": "Ch7: Electric circuits",
-									"date": "26-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=119111&offering=30991",
-									"file": "Assig-119111.before FinalPhywithSol-2024pdf",
-									"description": "solution of last assignment",
-									"date": "06-May-2024"
-							  }
-						 ],
-						 "homework": [
-							  {
-									"title": "Assignment before mid term",
-									"description": "Assignment on 4 chapters",
-									"deadline": "27-Feb-2024"
-							  },
-							  {
-									"title": "Assignment before mid term",
-									"description": "Assignment on 4 chapters",
-									"deadline": "27-Feb-2024"
-							  }
-						 ],
-						 "total": "71",
-						 "letter": "C",
-						 "grades": [
-							  {
-									"title": "attendance",
-									"percentage": "10%",
-									"date": "25-06-2024",
-									"grade": "70"
-							  },
-							  {
-									"title": "quiz",
-									"percentage": "20%",
-									"date": "25-06-2024",
-									"grade": "100"
-							  },
-							  {
-									"title": "midterm",
-									"percentage": "30%",
-									"date": "05-03-2024",
-									"grade": "88"
-							  },
-							  {
-									"title": "Final exam (Final Exam)",
-									"percentage": "40%",
-									"date": "25-06-2024",
-									"grade": "45"
-							  }
-						 ]
+						 "grade": 2
 					},
 					{
 						 "code": "CSC103",
 						 "name": "Database Systems",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 3,
-						 "section": "C",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "SCI Lab 4",
-						 "schedule": "Saturday(10:05:00-12:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=111993&offering=31016",
-									"file": "syllabus CSC103_DBMS_2024 Hoblos Ziad-111993.pdf",
-									"description": "Syllabus",
-									"date": "13-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112820&offering=31016",
-									"file": "ch1-Introduction-112820.pdf",
-									"description": "Introducing to Database System",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112822&offering=31016",
-									"file": "Relational Database Management System(RDBMS)-112822.pdf",
-									"description": "RDBMS",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112823&offering=31016",
-									"file": "ch2-E-R Model-112823.pdf",
-									"description": "ER Model",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113016&offering=31016",
-									"file": "ERD-examples-113016.pdf",
-									"description": "ERD examples",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115138&offering=31016",
-									"file": "ch3-SQL-115138.pdf",
-									"description": "Introduction to SQL",
-									"date": "24-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115797&offering=31016",
-									"file": "SQL Exercise1-115797.pdf",
-									"description": "SQL Ex1",
-									"date": "29-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=116604&offering=31016",
-									"file": "SQL Commands(Exercise 2)-116604.pdf",
-									"description": "SQL Commands(Exercise 2)",
-									"date": "14-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117228&offering=31016",
-									"file": "Administration Trainnees part1-117228.pdf",
-									"description": "Administration Trainnees part1",
-									"date": "26-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117230&offering=31016",
-									"file": "Administration Trainnees part2-117230.pdf",
-									"description": "Administration Trainnees part2",
-									"date": "26-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117691&offering=31016",
-									"file": "Administration Trainnees part3-117691.pdf",
-									"description": "Administration Trainnees part3",
-									"date": "03-Apr-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117976&offering=31016",
-									"file": "MySQL Joins-117976.pdf",
-									"description": "MySQL Joins",
-									"date": "14-Apr-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "83",
-						 "letter": "B",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "04-05-2024",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "04-05-2024",
-									"grade": "82"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "23-03-2024",
-									"grade": "84"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "30-05-2024",
-									"grade": "78"
-							  }
-						 ]
+						 "grade": 3
 					},
 					{
 						 "code": "CSC103L",
 						 "name": "Database Systems Lab",
 						 "credits": 1,
 						 "type": "Faculty",
-						 "grade": 2.3,
-						 "section": "C",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "SCI Lab 4",
-						 "schedule": "Saturday(12:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112898&offering=31017",
-									"file": "ER Examples 1-112898.pdf",
-									"description": "Lab1",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=111994&offering=31017",
-									"file": "syllabus  CSC103L_DBMS_2024 Hoblos Ziad-111994.pdf",
-									"description": "Syllabus",
-									"date": "13-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112900&offering=31017",
-									"file": "ER Examples 2-112900.pdf",
-									"description": "Lab2",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112902&offering=31017",
-									"file": "ER Homework Solution-112902.pdf",
-									"description": "Lab3",
-									"date": "15-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115140&offering=31017",
-									"file": "Chapter-9-MySQL-115140.pdf",
-									"description": "Working with mysql",
-									"date": "24-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115798&offering=31017",
-									"file": "SQL Exercise1-115798.pdf",
-									"description": "Lab4",
-									"date": "29-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=116605&offering=31017",
-									"file": "SQL Commands(Exercise 2)-116605.pdf",
-									"description": "Lab5",
-									"date": "14-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117233&offering=31017",
-									"file": "Administration Trainnees part1-117233.pdf",
-									"description": "Administration Trainnees part1",
-									"date": "26-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117234&offering=31017",
-									"file": "Administration Trainnees part2-117234.pdf",
-									"description": "Administration Trainnees part2",
-									"date": "26-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117693&offering=31017",
-									"file": "Administration Trainnees part3-117693.pdf",
-									"description": "Administration Trainnees part3",
-									"date": "03-Apr-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117977&offering=31017",
-									"file": "MySQL Joins-117977.pdf",
-									"description": "MySQL Joins",
-									"date": "14-Apr-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "77",
-						 "letter": "C+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "04-05-2024",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "04-05-2024",
-									"grade": "76"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "23-03-2024",
-									"grade": "91"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "30-05-2024",
-									"grade": "60"
-							  }
-						 ]
+						 "grade": 2.3
 					},
 					{
 						 "code": "CSC308",
 						 "name": "Networking",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 3,
-						 "section": "C",
-						 "instructor": "Dr.  Rabih  Barake",
-						 "room": "113",
-						 "schedule": "Wednesday(14:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113903&offering=31022",
-									"file": "Syllabus CSC305-Network 2024-113903.pdf",
-									"description": "Syllabus CSC305",
-									"date": "17-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113920&offering=31022",
-									"file": "Chapter 0-113920.pdf",
-									"description": "Chapter 0 ",
-									"date": "17-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113922&offering=31022",
-									"file": "Chapter 1-113921.pdf",
-									"description": "Chapter 1 ",
-									"date": "17-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113923&offering=31022",
-									"file": "Chapter 2-113923.pdf",
-									"description": "Chapter 2 ",
-									"date": "17-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=116091&offering=31022",
-									"file": "Chapter 3-116091.pdf",
-									"description": "Chapter 3",
-									"date": "03-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117002&offering=31022",
-									"file": "DHCP-117002.pdf",
-									"description": "Chapter 3-1-DHCP",
-									"date": "20-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117003&offering=31022",
-									"file": "LAN MAN WAN-117003.pdf",
-									"description": "Chapter 3-2-LAN-MAN-WAN",
-									"date": "20-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117004&offering=31022",
-									"file": "Chapter 4 IP and Subnetmask-117004.pdf",
-									"description": "Chapter 4 IP and Subnetmask",
-									"date": "20-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=118734&offering=31022",
-									"file": "Chapter 5 VLSM Application-118734.pdf",
-									"description": "Chapter 5 VLSM Application",
-									"date": "27-Apr-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=118984&offering=31022",
-									"file": "Chapter 4-1-DNS-118984.pdf",
-									"description": "Chapter 4-1 DNS",
-									"date": "30-Apr-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "81",
-						 "letter": "B",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "30-04-2024",
-									"grade": "80"
-							  },
-							  {
-									"title": "Homework  Participation",
-									"percentage": "20%",
-									"date": "30-04-2024",
-									"grade": "86"
-							  },
-							  {
-									"title": "Partial",
-									"percentage": "30%",
-									"date": "06-03-2024",
-									"grade": "78"
-							  },
-							  {
-									"title": "Final  (Final Exam)",
-									"percentage": "40%",
-									"date": "30-04-2024",
-									"grade": "80"
-							  }
-						 ]
+						 "grade": 3
 					},
 					{
 						 "code": "CSC307",
 						 "name": "System Analysis and Design",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 3,
-						 "section": "D",
-						 "instructor": "Mrs.  Sara  Zakaria",
-						 "room": "104",
-						 "schedule": "Saturday(13:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=111840&offering=31026",
-									"file": "Lecture#1-111840.pdf",
-									"description": "Lecture #1",
-									"date": "13-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=111842&offering=31026",
-									"file": "lecture2-111842.pdf",
-									"description": "Lecture #2",
-									"date": "13-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=112510&offering=31026",
-									"file": "Lecture #3-112510.pdf",
-									"description": "Lecture #3",
-									"date": "14-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114816&offering=31026",
-									"file": "TemplateReport-114816.docx",
-									"description": "ReportTemplate",
-									"date": "21-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114815&offering=31026",
-									"file": "ReportProject-114815.pdf",
-									"description": "Report-Hint",
-									"date": "21-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115759&offering=31026",
-									"file": "Lecture #4 -115759.pdf",
-									"description": "Lecture #4",
-									"date": "29-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=115760&offering=31026",
-									"file": "Exercices-115760.pdf",
-									"description": "Exercices",
-									"date": "29-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117184&offering=31026",
-									"file": "Lecture #5-117184.pptx",
-									"description": "Lecture #5",
-									"date": "25-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117185&offering=31026",
-									"file": "Lecture #5-117185.pdf",
-									"description": "Lecture #5",
-									"date": "25-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=118881&offering=31026",
-									"file": "Exercises Sequence diagram-118881.pdf",
-									"description": "Exercises",
-									"date": "28-Apr-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=118882&offering=31026",
-									"file": "Lecture #6-118882.pdf",
-									"description": "Lecture #6",
-									"date": "28-Apr-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=118883&offering=31026",
-									"file": "EXERCISES ACTIVITY DIAGRAM-118883.pdf",
-									"description": "Exercises",
-									"date": "28-Apr-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "80",
-						 "letter": "B",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "31-05-2024",
-									"grade": "80"
-							  },
-							  {
-									"title": "Quiz",
-									"percentage": "20%",
-									"date": "31-05-2024",
-									"grade": "95"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "16-03-2024",
-									"grade": "74"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "31-05-2024",
-									"grade": "78"
-							  }
-						 ]
+						 "grade": 3
 					},
 					{
 						 "code": "CSC224",
 						 "name": "Introduction to Robotics and IOT",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 4,
-						 "section": "A",
-						 "instructor": "Dr.  Mostafa  Hazim",
-						 "room": "112",
-						 "schedule": "Tuesday(10:05:00-12:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114567&offering=31035",
-									"file": "C1 Introdation_of_robotics-114567.pdf",
-									"description": "Ch1 Introduction to Robotics ",
-									"date": "19-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114568&offering=31035",
-									"file": "C2 Revision of the electricity and electronics basics-114568.pdf",
-									"description": "C2 Revision of the electricity and electronics basics",
-									"date": "19-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=114569&offering=31035",
-									"file": "C3 Getting Started with Arduino-114569.pdf",
-									"description": "C3 Getting Started with Arduino",
-									"date": "19-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=116610&offering=31035",
-									"file": "C4 Light (LED, Potentiometer, Photoresistor, RGB LED) -116610.pdf",
-									"description": "C4 Light (LED, Potentiometer, Photoresistor, RGB LED) ",
-									"date": "14-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=116611&offering=31035",
-									"file": "C5 BUZZER-116611.pdf",
-									"description": "C5 Buzzer",
-									"date": "14-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117511&offering=31035",
-									"file": "C6 Motion (Servo Motors, Distance Sensor)-117511.pdf",
-									"description": "C6 Motion (Servo Motors, Distance Sensor)",
-									"date": "29-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117512&offering=31035",
-									"file": "C7 Display (LCD Screen, 88 dot matrix)-117512.pdf",
-									"description": "C7 Display (LCD Screen, 88 dot matrix)",
-									"date": "29-Mar-2024"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "93",
-						 "letter": "A",
-						 "grades": [
-							  {
-									"title": "Attendance and Participation",
-									"percentage": "10%",
-									"date": "23-05-2024",
-									"grade": "90"
-							  },
-							  {
-									"title": "Laboratory Work and Evaluation",
-									"percentage": "40%",
-									"date": "23-05-2024",
-									"grade": "90"
-							  },
-							  {
-									"title": "Final Project (Final Exam)",
-									"percentage": "50%",
-									"date": "27-05-2024",
-									"grade": "95"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "AGCV250",
 						 "name": "الفنون الإعلانية والتواصل البصري 3",
 						 "credits": 3,
 						 "type": "Elective",
-						 "grade": 4,
-						 "section": "A",
-						 "instructor": "Dr.  Yusser  Elsabsabi Elrifai",
-						 "room": "411",
-						 "schedule": "Tuesday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113523&offering=31658",
-									"file": "الفنون الإعلانية والتواصل البصري tنهائي (2)-113523.pdf",
-									"description": "Syllabus ",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113525&offering=31658",
-									"file": "كيفية إنشاء هوية مرئية للعلامة التجارية محاضرة الأولى-113525.pdf",
-									"description": "المحاضرة 1",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113527&offering=31658",
-									"file": "المحاضرة الثانية فنون إعلانية (1)-113527.pdf",
-									"description": "المحاضرة الثانية",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113529&offering=31658",
-									"file": "أساسيات علم نفس اللون-113529.pdf",
-									"description": "المحاضرة الثالثة",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113530&offering=31658",
-									"file": "الألوان والعواطف-113530.pdf",
-									"description": "المحاضرة 4",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113531&offering=31658",
-									"file": "الأنواع السبعة للشعارات-113531.pdf",
-									"description": "المحاضرة 5",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113532&offering=31658",
-									"file": "التمرين 1-113532.pdf",
-									"description": "تمرين 1",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113533&offering=31658",
-									"file": "طَرَابُلُس 2-113533.pdf",
-									"description": "تمرين 2",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113536&offering=31658",
-									"file": "arrolds  هوية بصرية-113535.pdf",
-									"description": "امثلة عن هوية بصرية 1",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=113537&offering=31658",
-									"file": "OOPهوية-113537.pdf",
-									"description": "امثلة عن هوية بصرية 2",
-									"date": "16-Feb-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117559&offering=31658",
-									"file": "‎⁨أفكارلبوستر طرابلس⁩-117559.pdf",
-									"description": "المحاضرة السادسة",
-									"date": "31-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117560&offering=31658",
-									"file": "‎⁨أهم 13 اتجاهًا للتصميم الجرافيكي للتصميم المتطور في عام 2024 المحاضرة 5-1-35_pagenumber⁩-117560.pdf",
-									"description": "المحاضرة 7",
-									"date": "31-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117561&offering=31658",
-									"file": "الفرق بين الهوية التجارية والهوية البصرية بالتفصيل (1)-117561.pdf",
-									"description": "المحاضرة الثامنة",
-									"date": "31-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117562&offering=31658",
-									"file": "75 إعلانًا رائعًا وملهمًا ستغير طريقة تفكيرك-117562.pdf",
-									"description": "المحاضرة التاسعة",
-									"date": "31-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=117563&offering=31658",
-									"file": "تصميم بوسترات smm-117563.pdf",
-									"description": "تمرين ",
-									"date": "31-Mar-2024"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=118981&offering=31658",
-									"file": "دليل عملي للتصميم للأطفال (2)-118981.pdf",
-									"description": "المحاضرة العاشرة ",
-									"date": "30-Apr-2024"
-							  }
-						 ],
-						 "homework": [
-							  {
-									"title": "Final",
-									"description": "Final exam",
-									"deadline": "25-May-2024"
-							  }
-						 ],
-						 "total": "91",
-						 "letter": "A",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "30-04-2024",
-									"grade": "80"
-							  },
-							  {
-									"title": "Activities",
-									"percentage": "20%",
-									"date": "23-04-2024",
-									"grade": "91"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "26-03-2024",
-									"grade": "93"
-							  },
-							  {
-									"title": "Final  (Final Exam)",
-									"percentage": "40%",
-									"date": "30-04-2024",
-									"grade": "93"
-							  }
-						 ]
+						 "grade": 4
 					}
 			  ],
 			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=135&type=1&appId=34338",
@@ -1135,804 +132,49 @@
 						 "name": "الرسم الإيضاحي",
 						 "credits": 3,
 						 "type": "Elective",
-						 "grade": 4,
-						 "section": "B",
-						 "instructor": "Dr.  Yusser  Elsabsabi Elrifai",
-						 "room": "411",
-						 "schedule": "Tuesday(13:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101359&offering=29810",
-									"file": "الرسم الايضاحي-101359.pdf",
-									"description": "Syllabus ",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101361&offering=29810",
-									"file": "‎⁨المحاضرة الأولى معدلة⁩-101360.pdf",
-									"description": "المحاضرة الاولى",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101362&offering=29810",
-									"file": "‎⁨المحاضرة 1 الرسم الايضاحي⁩-101362.pdf",
-									"description": "المحاضرة الاولى 2",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102313&offering=29810",
-									"file": "المحاضرة الثانية-102313.pdf",
-									"description": "المحاضرة الثانية",
-									"date": "30-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102314&offering=29810",
-									"file": "‎⁨كتب ملحق⁩-102314.pdf",
-									"description": "المحاضرة الثالثة",
-									"date": "30-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102315&offering=29810",
-									"file": "‎⁨تمرين⁩-102315.pdf",
-									"description": "المحاضرة الثالثة 1",
-									"date": "30-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102316&offering=29810",
-									"file": "IMG_0306-102316.jpeg",
-									"description": "دائرة الالوان",
-									"date": "30-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102440&offering=29810",
-									"file": "‎⁨المحاضرة الثالثة تمرين جزء الاول⁩-102440.pdf",
-									"description": "المحاضرة الثالثة 1",
-									"date": "01-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102447&offering=29810",
-									"file": "‎⁨المحاضرة الثالثة تمرين 2⁩-102447.pdf",
-									"description": "المحاضرة الثالثة ",
-									"date": "01-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103436&offering=29810",
-									"file": "‎⁨عناصر ومتطلبات رسم وتصميم الأزياء (3)⁩-103436.pdf",
-									"description": "المحاضرة الرابعة",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103437&offering=29810",
-									"file": "المحاضرة الرابعة رسوم الازياء التوضيحية-103437.pdf",
-									"description": "المحاضرة الرابعة 2",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://pin.it/4ab5TYZ",
-									"file": "https://pin.it/4ab5TYZ",
-									"description": "فيديو تعليمي لرسم الازياء",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/انظر إلى هذا... ",
-									"file": "انظر إلى هذا... ",
-									"description": "how to draw fabric textures",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103444&offering=29810",
-									"file": "IMG_0427-103444.png",
-									"description": "رسم خامات القماش",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103445&offering=29810",
-									"file": "IMG_0424-103445.jpeg",
-									"description": "رسم خامات القماش2",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103446&offering=29810",
-									"file": "IMG_0422-103446.png",
-									"description": "خامات قماش 3",
-									"date": "05-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104741&offering=29810",
-									"file": "‎⁨المحاضرة الخامسة رسم الازياء⁩-104741.pdf",
-									"description": "المحاضرة الخامسة",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105078&offering=29810",
-									"file": "‎⁨محاضرة تصميم الازياء1⁩-105078.pdf",
-									"description": "المحاضرة الخامسة2",
-									"date": "12-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105079&offering=29810",
-									"file": "‎⁨تمرين الرسوم الايضاحية للأزياء⁩-105079.pdf",
-									"description": "تمرين 3",
-									"date": "12-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=106593&offering=29810",
-									"file": "‎⁨ماهو مشروع الرسم الايضاحي⁩-106592.pdf",
-									"description": "ما هو المشروع الاعلاني الايضاحي",
-									"date": "23-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=106591&offering=29810",
-									"file": "‎⁨الرسم اليضاحي الاعلاني⁩-106591.pdf",
-									"description": "المحاضرة السادسة",
-									"date": "23-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=106594&offering=29810",
-									"file": "‎⁨محاضرة الرسم الايضاحي الاعلاني 2⁩-106594.pdf",
-									"description": "المحاضرة 7",
-									"date": "23-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108309&offering=29810",
-									"file": "‎⁨التقييم الجزئي الرسم الايضاحي التحريري⁩-108309.pdf",
-									"description": "التقييم الجزئي 1",
-									"date": "14-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108973&offering=29810",
-									"file": "‎⁨االتقييم الجزئي الرسم الاإيضاحي للأزياء⁩-108973.pdf",
-									"description": "التقييم الجزئي2",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108974&offering=29810",
-									"file": "‎⁨التقييم الجزئي الرسم الايضاحي الاعلاني⁩-108974.pdf",
-									"description": "التقييم الجزئي 3",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108975&offering=29810",
-									"file": "‎⁨رسم الوجه⁩-108975.pdf",
-									"description": "المحاضرة الثامنة",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108976&offering=29810",
-									"file": "‎⁨رسم الكاراترز (1)⁩-108976.pdf",
-									"description": "المحاضرة التاسعة",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108977&offering=29810",
-									"file": "The art of illustration (1)-108977.pdf",
-									"description": "المحاضرة 10",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108979&offering=29810",
-									"file": "The art of illustratio2-108978.pdf",
-									"description": "المحاضرة 10/2",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108980&offering=29810",
-									"file": "IMG_1221-108980.jpeg",
-									"description": "تمرين ",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108981&offering=29810",
-									"file": "PHOTO-2023-11-21-17-49-59-108981.jpg",
-									"description": "امثلة للعمل على برنامج sektch book1",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108982&offering=29810",
-									"file": "PHOTO-2023-11-21-17-53-11-108982.jpg",
-									"description": "امثلة عن برنامج sektchbook2",
-									"date": "21-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://youtu.be/p3LX4iopP-0?si=NiA7Gg8ckT9p-CYI",
-									"file": "https://youtu.be/p3LX4iopP-0?si=NiA7Gg8ckT9p-CYI",
-									"description": "درس تعليمي للرسم على برنامج sektchbook",
-									"date": "21-Nov-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "94",
-						 "letter": "A",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "11-12-2023",
-									"grade": "95"
-							  },
-							  {
-									"title": "Activites",
-									"percentage": "20%",
-									"date": "11-12-2023",
-									"grade": "95"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "14-11-2023",
-									"grade": "95"
-							  },
-							  {
-									"title": "Final  (Final Exam)",
-									"percentage": "40%",
-									"date": "04-12-2023",
-									"grade": "93"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "LIT125",
 						 "name": "English Language II or French Language II",
 						 "credits": 3,
 						 "type": "General",
-						 "grade": 3.3,
-						 "section": "B",
-						 "instructor": "Dr.  Nisrin  Moukadem",
-						 "room": "406",
-						 "schedule": "Tuesday(08:35:00-10:00:00) ● Saturday(08:35:00-10:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101722&offering=29997",
-									"file": "LIT 125 fall-101721.docx",
-									"description": "Course syllabus",
-									"date": "29-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103935&offering=29997",
-									"file": "all_tenses_form_cheatsheet-103935.pdf",
-									"description": "Tenses",
-									"date": "08-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=103942&offering=29997",
-									"file": "Active to Passive Verb Tense chart-103942.pdf",
-									"description": "Active/Passive",
-									"date": "08-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter",
-									"file": "https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter",
-									"description": "Cover letter",
-									"date": "08-Oct-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "89",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "15-11-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Participation",
-									"percentage": "20%",
-									"date": "16-11-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "17-11-2023",
-									"grade": "89"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "04-12-2023",
-									"grade": "86"
-							  }
-						 ]
+						 "grade": 3.3
 					},
 					{
 						 "code": "SPT100",
 						 "name": "التربية البدنية و الرياضية",
 						 "credits": 3,
 						 "type": "Elective",
-						 "grade": 3.3,
-						 "section": "A",
-						 "instructor": "Dr.  Mohammad  Yassine",
-						 "room": "VR1",
-						 "schedule": "Tuesday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=102636&offering=30096",
-									"file": "SPT100 توصيف مادة التربية البدنية والرياضية د-102636.محمد ياسينpdf",
-									"description": "توصيف المقرر",
-									"date": "02-Oct-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "85",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "05-12-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "participation",
-									"percentage": "20%",
-									"date": "28-11-2023",
-									"grade": "85"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "28-11-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "final exam (Final Exam)",
-									"percentage": "40%",
-									"date": "05-12-2023",
-									"grade": "80"
-							  }
-						 ]
+						 "grade": 3.3
 					},
 					{
 						 "code": "CSC211",
 						 "name": "Operating Systems",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 3.3,
-						 "section": "E",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "SCI Lab 4",
-						 "schedule": "Monday(11:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101141&offering=30304",
-									"file": "Syllabus CSC211-OS-101141.pdf",
-									"description": "Syllabus",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101375&offering=30304",
-									"file": "OS_Ch01-101375.pptx",
-									"description": "Chapter1",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101376&offering=30304",
-									"file": "OS_Ch02-101376.pptx",
-									"description": "Chapter2",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=101377&offering=30304",
-									"file": "OS_Ch03-101377.pptx",
-									"description": "Chapter3",
-									"date": "28-Sep-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104154&offering=30304",
-									"file": "Introduction to C Language-104154.pdf",
-									"description": "Introduction to C",
-									"date": "09-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=107159&offering=30304",
-									"file": "OS_Ch04-107159.pptx",
-									"description": "Chapter4",
-									"date": "30-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105773&offering=30304",
-									"file": "System calls Exercises (Solution)-105773.pdf",
-									"description": "System Calls",
-									"date": "17-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108223&offering=30304",
-									"file": "Threads (Exercises)-108223.pdf",
-									"description": "Ch4(Exercises)",
-									"date": "14-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108224&offering=30304",
-									"file": "OS_Ch05-108224.pptx",
-									"description": "Chapter5",
-									"date": "14-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108344&offering=30304",
-									"file": "CPU-Scheduling and Algorithm-108344.pdf",
-									"description": "Ch5(Exercises)",
-									"date": "15-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=109261&offering=30304",
-									"file": "OS_Ch06-109261.pptx",
-									"description": "Chapter6",
-									"date": "25-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=109262&offering=30304",
-									"file": "OS_Ch07 Part1-109262.pptx",
-									"description": "Chapter7 P1",
-									"date": "25-Nov-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "85",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "13-12-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "16-12-2023",
-									"grade": "75"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "06-11-2023",
-									"grade": "94"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "18-12-2023",
-									"grade": "80"
-							  }
-						 ]
+						 "grade": 3.3
 					},
 					{
 						 "code": "CSC211L",
 						 "name": "Operating Systems Lab",
 						 "credits": 1,
 						 "type": "Faculty",
-						 "grade": 3.3,
-						 "section": "F",
-						 "instructor": "Mrs.  Lina  Khazma",
-						 "room": "110",
-						 "schedule": "Monday(13:05:00-14:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104693&offering=30307",
-									"file": "Syllabus CSC211-OS Lab-F-104693.pdf",
-									"description": "Syllabus CSC211L - Section F",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104869&offering=30307",
-									"file": "Lab 1-104869.pdf",
-									"description": "Introduction to Linux and shell commands (date, cal, man, history, whatis, clear, du, df, free, exit)",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104871&offering=30307",
-									"file": "Lab 2-3-104871.pdf",
-									"description": "File System Hierarchy – Commands (pwd, ls, cd, mkdir, tree, rmdir, rm)",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104873&offering=30307",
-									"file": "Lab 4-104873.pdf",
-									"description": "Commands (touch, echo, cat, cp, mv)",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104876&offering=30307",
-									"file": "Exercise1-Homework-104876.pdf",
-									"description": "Exercise 1 - Homework",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=104877&offering=30307",
-									"file": "Exercise1-Solution-104877.pdf",
-									"description": "Exercise 1 - Solution",
-									"date": "11-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105293&offering=30307",
-									"file": "Lab 5-105293.pdf",
-									"description": "Commands (file, wc, find, grep,sort)",
-									"date": "13-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105407&offering=30307",
-									"file": "Exercise1-Solution-withColor-105407.pdf",
-									"description": "Exercise 1 - Solution - With Color",
-									"date": "15-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105452&offering=30307",
-									"file": "Exercise_Lab5-105452.pdf",
-									"description": "Exercise_Lab5",
-									"date": "15-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105852&offering=30307",
-									"file": "Lab 6-105852.pdf",
-									"description": "Commands (whoami, who, su, sudo, adduser, userdel,passwd)",
-									"date": "17-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105853&offering=30307",
-									"file": "Exercise_Lab6-105853.pdf",
-									"description": "Exercise_Lab6",
-									"date": "17-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=106601&offering=30307",
-									"file": "OS_Lab_F_Solution-106601.pdf",
-									"description": "Quiz1",
-									"date": "23-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=106602&offering=30307",
-									"file": "Lab 7-106602.pdf",
-									"description": "Commands(chown, chmod, ping, ip, hostname)",
-									"date": "23-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108466&offering=30307",
-									"file": "OS_Lab_F_1_Solution-108466.pdf",
-									"description": "Solution MidTerm - Group1",
-									"date": "16-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108467&offering=30307",
-									"file": "OS_Lab_F_2_Solution-108467.pdf",
-									"description": "Solution MidTerm - Group2",
-									"date": "16-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108468&offering=30307",
-									"file": "Lab 8-108468.pdf",
-									"description": "C Language - Fork()",
-									"date": "16-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=109141&offering=30307",
-									"file": "Lab 9-109141.pdf",
-									"description": "C Language - Fork() with array",
-									"date": "23-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=108704&offering=30307",
-									"file": "Lab 9 - Homework-108704.pdf",
-									"description": "C Language - Homework",
-									"date": "19-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=109453&offering=30307",
-									"file": "Lab 10-109453.pdf",
-									"description": "C Language - Pipe",
-									"date": "27-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=110327&offering=30307",
-									"file": "Lab 9 - Homework - Solution-110327.pdf",
-									"description": "Solution Homework - Lab9",
-									"date": "06-Dec-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=110328&offering=30307",
-									"file": "Lab 11-110328.pdf",
-									"description": "C Language - Pipe with array & Methods",
-									"date": "06-Dec-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "86",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance and Participate",
-									"percentage": "10%",
-									"date": "09-12-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes and Homeworks",
-									"percentage": "20%",
-									"date": "09-12-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "Midterm Assesment",
-									"percentage": "30%",
-									"date": "11-11-2023",
-									"grade": "83"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "23-12-2023",
-									"grade": "82"
-							  }
-						 ]
+						 "grade": 3.3
 					},
 					{
 						 "code": "SCI001",
 						 "name": "Introduction to Cyber Security",
 						 "credits": 3,
 						 "type": "Elective",
-						 "grade": 4,
-						 "section": "B",
-						 "instructor": "Mrs.  Sara  Zakaria",
-						 "room": "CS Lab 3",
-						 "schedule": "Saturday(13:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105584&offering=30331",
-									"file": "lecture #1-105584.pdf",
-									"description": "Lecture #1",
-									"date": "16-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105585&offering=30331",
-									"file": "lecture#2-105585.pdf",
-									"description": "Lecture #2",
-									"date": "16-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://www.netacad.com/",
-									"file": "https://www.netacad.com/",
-									"description": "Link cisco",
-									"date": "16-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=107167&offering=30331",
-									"file": "Lecture #3-107167.pdf",
-									"description": "Lecture #3",
-									"date": "30-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=107168&offering=30331",
-									"file": "Lecture #4-107168.pdf",
-									"description": "Lecture #4",
-									"date": "30-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=109211&offering=30331",
-									"file": "lecture #5-109211.pdf",
-									"description": "Syllabus",
-									"date": "24-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=109212&offering=30331",
-									"file": "syllabus itro to cyber-109212.pdf",
-									"description": "Syllabus",
-									"date": "24-Nov-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=110123&offering=30331",
-									"file": "Lecture #6-110123.pdf",
-									"description": "Lecture #6",
-									"date": "04-Dec-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=110124&offering=30331",
-									"file": "Lecture #6-110124.pdf",
-									"description": "Lecture #6",
-									"date": "04-Dec-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=110125&offering=30331",
-									"file": "Lecture #7-110125.pdf",
-									"description": "Lecture #7",
-									"date": "04-Dec-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "93",
-						 "letter": "A",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "05-12-2023",
-									"grade": "95"
-							  },
-							  {
-									"title": "Quiz",
-									"percentage": "20%",
-									"date": "28-10-2023",
-									"grade": "92"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "11-11-2023",
-									"grade": "98.5"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "01-12-2023",
-									"grade": "90"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "MAT210",
 						 "name": "Operation Research",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 3.3,
-						 "section": "A",
-						 "instructor": "Dr.  Salam  Kouzayha",
-						 "room": "104",
-						 "schedule": "Saturday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105146&offering=30533",
-									"file": "MAT 210 - Syllabus - Fall23-105146.docx",
-									"description": "Course Syllabus",
-									"date": "12-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105147&offering=30533",
-									"file": "History_ch1-105147.pdf",
-									"description": "Chapter 1",
-									"date": "12-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105149&offering=30533",
-									"file": "ch2-105149.pdf",
-									"description": "Chapter 2",
-									"date": "12-Oct-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=105151&offering=30533",
-									"file": "ch3-105151.pdf",
-									"description": "Chapter 3",
-									"date": "12-Oct-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "85",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "01-11-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Tests and homeworks",
-									"percentage": "20%",
-									"date": "15-11-2023",
-									"grade": "80"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "04-11-2023",
-									"grade": "81"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "05-12-2023",
-									"grade": "86"
-							  }
-						 ]
+						 "grade": 3.3
 					}
 			  ],
 			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=133&type=1&appId=34338",
@@ -1948,660 +190,35 @@
 						 "name": "English Language I or French Language I",
 						 "credits": 3,
 						 "type": "General",
-						 "grade": 2.3,
-						 "section": "D",
-						 "instructor": "Dr.  Nisrin  Moukadem",
-						 "room": "412",
-						 "schedule": "Wednesday(08:05:00-10:00:00) ● Saturday(09:05:00-10:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93637&offering=28477",
-									"file": "LIT 120 D Syllabus-93637.docx",
-									"description": "Course syllabus",
-									"date": "24-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=94534&offering=28477",
-									"file": "Unit 1       simple present and present continous-94534.docx",
-									"description": "Simple present/present continuous",
-									"date": "27-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=94536&offering=28477",
-									"file": "Unit 1 State verbs-94535.docx",
-									"description": "State verbs",
-									"date": "27-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://www.eurocentres.com/blog/using-adjectives-ending-in-ed-and-ing#:~:text=When%20describing%20an%20event%20or,then%20you%20would%20use%20%E2%80%93%20ing.",
-									"file": "https://www.eurocentres.com/blog/using-adjectives-ending-in-ed-and-ing#:~:text=When%20describing%20an%20event%20or,then%20you%20would%20use%20%E2%80%93%20ing.",
-									"description": "Ed-ing",
-									"date": "27-Mar-2023"
-							  }
-						 ],
-						 "homework": [
-							  {
-									"title": "Writing an informal email",
-									"description": "writing an informal email",
-									"deadline": "24-Mar-2023"
-							  }
-						 ],
-						 "total": "77",
-						 "letter": "C+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "31-05-2023",
-									"grade": "60"
-							  },
-							  {
-									"title": "Participation",
-									"percentage": "20%",
-									"date": "31-05-2023",
-									"grade": "80"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "29-04-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "31-05-2023",
-									"grade": "69"
-							  }
-						 ]
+						 "grade": 2.3
 					},
 					{
 						 "code": "LIT105",
 						 "name": "الحضارة العربية",
 						 "credits": 3,
 						 "type": "General",
-						 "grade": 2.3,
-						 "section": "S5",
-						 "instructor": "Dr.  Ahlam  Abou hajal",
-						 "room": "B2-311",
-						 "schedule": "Wednesday(13:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93157&offering=28503",
-									"file": "توصيف مادة الحضارة العربية-كلية العلوم-93157.docx",
-									"description": "توصيف مادة حضارة عربيّة إسلاميّة",
-									"date": "21-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93158&offering=28503",
-									"file": "1-ملخص للنقاط الأساسية- الحضارة العربية-2023-93158.pdf",
-									"description": "المحاضرة الأولى الحضارة والثقافة  ",
-									"date": "21-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93159&offering=28503",
-									"file": "2-ملخص للنقاط الأساسية- الحضارة العربية-2023-93159.pdf",
-									"description": "المحاضرة الثانية العوامل التي أثّرت في التحضّر",
-									"date": "21-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93160&offering=28503",
-									"file": "3--ملخص للنقاط الأساسية- الحضارة العربية-2023-93160.pdf",
-									"description": "المحاضرة الثالثة اللغة (العرب وتطوّر الحضارة العربيّة: دور المساجد والمدارس والمكتبات)",
-									"date": "21-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93161&offering=28503",
-									"file": "DOC-20230319-WA0123-93161.",
-									"description": "المحاضرة الرابعة هيكليّة الدولة: الخلافة، الوزارة",
-									"date": "21-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=93162&offering=28503",
-									"file": "DOC-20230321-WA0403-93162.",
-									"description": "المحاضرة الخامسة مكانة المرأة في التحضّر، أهميّة الخط",
-									"date": "21-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=94707&offering=28503",
-									"file": "المحاضرة السادسة العمارة الإسلاميّة المساجد والقصور-94707.",
-									"description": "المحاضرة السادسة العمارة الإسلاميّة: المساجد والقصور",
-									"date": "28-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=96500&offering=28503",
-									"file": "المحاضرة السابعة النظام الاقتصاديّ-96500.",
-									"description": "المحاضرة السابعة النظام الاقتصاديّ الإسلاميّ",
-									"date": "14-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=96501&offering=28503",
-									"file": "المحاضرة الثامنة مآثر المسلمين في علم التاريخ وعلم الجغرافيا-96501.",
-									"description": "المحاضرة الثامنة مآثر المسلمين في بعض العلوم: التاريخ والجغرافيا",
-									"date": "14-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97774&offering=28503",
-									"file": "المحاضرة التاسعة علم الطب-97774.",
-									"description": "المحاضرة التاسعة  مآثر المسلمين في علم الطب",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97775&offering=28503",
-									"file": "المحاضرة العاشرة المستشفيات والصيدلة-97775.",
-									"description": "المحاضرة العاشرة مآثر المسلمين في المستشفيات والصيدلة",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97776&offering=28503",
-									"file": "المحاضرة الحادية عشرة الرياضيات والفلك-97776.",
-									"description": "المحاضرة الحادية عشرة مآثر المسلمين في علمي الرياضيات والفلك",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=98810&offering=28503",
-									"file": "المحاضرة الثانية عشرة-98810.",
-									"description": "أثر الحضارة الإسلاميّة في الحضارة الأوروبيّة",
-									"date": "25-May-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "77",
-						 "letter": "C+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "31-05-2023",
-									"grade": "71"
-							  },
-							  {
-									"title": "Participiant",
-									"percentage": "20%",
-									"date": "31-05-2023",
-									"grade": "93"
-							  },
-							  {
-									"title": "Midterm exam",
-									"percentage": "30%",
-									"date": "12-04-2023",
-									"grade": "52"
-							  },
-							  {
-									"title": "Final exam (Final Exam)",
-									"percentage": "40%",
-									"date": "10-06-2023",
-									"grade": "90"
-							  }
-						 ]
+						 "grade": 2.3
 					},
 					{
 						 "code": "CSC209",
 						 "name": "Web Programming I",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 4,
-						 "section": "A",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "112",
-						 "schedule": "Wednesday(10:05:00-12:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=94802&offering=28799",
-									"file": "Syllabus CSC209-Web programming I 2023 Hoblos Ziad-94802.pdf",
-									"description": "Syllabus",
-									"date": "28-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95371&offering=28799",
-									"file": "Part 1 -HTML- Basic_Spring 2023-95371.pptx",
-									"description": "HTML part1",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95374&offering=28799",
-									"file": "Part 2 -HTML- Basic_Spring 2023-95373.pptx",
-									"description": "HTML part2",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95375&offering=28799",
-									"file": "Lab 1-95375.pdf",
-									"description": "Lab1",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95376&offering=28799",
-									"file": "Lab 2-1-95376.pdf",
-									"description": "Lab2",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95377&offering=28799",
-									"file": "Lab3-95377.pdf",
-									"description": "Lab3",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95379&offering=28799",
-									"file": "Part 1_CSS-Basic_Spring 2023-95379.pptx",
-									"description": "CSS part1",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95380&offering=28799",
-									"file": "Part 2_CSS-Basic_Spring 2023-95380.pptx",
-									"description": "CSS part2",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95381&offering=28799",
-									"file": "Lab4-95381.pdf",
-									"description": "Lab4",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95382&offering=28799",
-									"file": "Lab5-95382.pdf",
-									"description": "Lab5",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=96786&offering=28799",
-									"file": "Lab6-96785.pdf",
-									"description": "Lab6",
-									"date": "25-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=96792&offering=28799",
-									"file": "Lab7-96792.pdf",
-									"description": "Lab7",
-									"date": "25-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97363&offering=28799",
-									"file": "CSS animations-97363.pptx",
-									"description": "CSS Animations",
-									"date": "02-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97959&offering=28799",
-									"file": "Part1_JavaScript_Basics_Spring 2023-97959.pptx",
-									"description": "JavaScript part1",
-									"date": "14-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97960&offering=28799",
-									"file": "Part2_JavaScript_Basics_Spring 2023-97960.pptx",
-									"description": "JavaScript part2",
-									"date": "14-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97966&offering=28799",
-									"file": "JavaScript-97966.pdf",
-									"description": "JavaScript Examples",
-									"date": "14-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=98504&offering=28799",
-									"file": "Salary Estimator-98504.pdf",
-									"description": "Lab JavaScript",
-									"date": "22-May-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "96",
-						 "letter": "A+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "03-06-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "03-06-2023",
-									"grade": "95"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "29-04-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "19-06-2023",
-									"grade": "100"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "CSC213",
 						 "name": "Visual Programming",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 4,
-						 "section": "A",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "CS Lab 3",
-						 "schedule": "Saturday(13:05:00-15:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=94807&offering=28829",
-									"file": "Syllabus CSC213- Visual Programming 2023 Hoblos Ziad-94807.pdf",
-									"description": "Syllabus",
-									"date": "28-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95401&offering=28829",
-									"file": "Lecture 1-95401.pdf",
-									"description": "Lect1",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95404&offering=28829",
-									"file": "project1 part1-95404.pdf",
-									"description": "P1-1",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95405&offering=28829",
-									"file": "project1 part2-95405.pdf",
-									"description": "P1-2",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95406&offering=28829",
-									"file": "project2-95406.pdf",
-									"description": "P2",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95407&offering=28829",
-									"file": "project3-95407.pdf",
-									"description": "P3",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95408&offering=28829",
-									"file": "project4-95408.pdf",
-									"description": "P4",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95409&offering=28829",
-									"file": "project5-95409.pdf",
-									"description": "P5",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95410&offering=28829",
-									"file": "project6-95410.pdf",
-									"description": "P6",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97760&offering=28829",
-									"file": "using System-97760.pdf",
-									"description": "CheckBoxes",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97765&offering=28829",
-									"file": "RadioButtons-97764.pdf",
-									"description": "RadioButtons",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97770&offering=28829",
-									"file": "Listbox checkedListbox-97770.pdf",
-									"description": "Listbox checkedListbox",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97973&offering=28829",
-									"file": "RadioButton_NumericUpDown-97973.pdf",
-									"description": "RadioButton_NumericUpDown",
-									"date": "14-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97974&offering=28829",
-									"file": "ComboBox_ListBox-97974.pdf",
-									"description": "ComboBox_ListBox",
-									"date": "14-May-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "100",
-						 "letter": "A+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "03-06-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "03-06-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "29-04-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "19-06-2023",
-									"grade": "100"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "CSC210",
 						 "name": "Object Oriented Programming",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 3.3,
-						 "section": "A",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "CS Lab 3",
-						 "schedule": "Monday(13:05:00-16:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=94789&offering=28838",
-									"file": "Syllabus CSC210-OOP 2023_Hoblos Ziad-94789.pdf",
-									"description": "Syllabus",
-									"date": "28-Mar-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95354&offering=28838",
-									"file": "(Variables, if, for, while, do-while, array and method) Solution-95354.pdf",
-									"description": "Review of Java Programming 1",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95357&offering=28838",
-									"file": "chapter 8-95357.ppsx",
-									"description": "Objects and Classes",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95358&offering=28838",
-									"file": "Week3 Examples(Objects and Classes)-95358.pdf",
-									"description": "Examples(Objects and Classes)",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95359&offering=28838",
-									"file": "OBJECTS AND CLASSES Prof-95359.pdf",
-									"description": "more exercises (Objects and Classes)",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95360&offering=28838",
-									"file": "chapter 10-95360.ppsx",
-									"description": "Thinking in Objects",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95362&offering=28838",
-									"file": "Object-Oriented Thinking Prof-95362.pdf",
-									"description": "Object-Oriented Thinking exercises",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95363&offering=28838",
-									"file": "Relationships (Exercise 1)-95363.pdf",
-									"description": "Relationships (Exercise 1)",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95364&offering=28838",
-									"file": "Relationships (Exercise 1 Solution)-95364.pdf",
-									"description": "Relationships (Exercise 1) Solution",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95365&offering=28838",
-									"file": "Relationships (Exercise 2)-95365.pdf",
-									"description": "Relationships (Exercise 2)",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95366&offering=28838",
-									"file": "Relationships (Exercise 2 Solution)-95366.pdf",
-									"description": "Relationships (Exercise 2) Solution",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=95368&offering=28838",
-									"file": "Relationships (Exercise3)-95368.pdf",
-									"description": "Relationships (Exercise 3)",
-									"date": "02-Apr-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97756&offering=28838",
-									"file": "10-Inheritance__Polymorphism_I-97756.pdf",
-									"description": "Inheritance and Polymorphism Part1",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97757&offering=28838",
-									"file": "11-Inheritance__Polymorphism_II-97757.pdf",
-									"description": "Inheritance and Polymorphism Part2",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=97758&offering=28838",
-									"file": "Inheritance and Polymorphism-97758.ppsx",
-									"description": "Inheritance and Polymorphism",
-									"date": "09-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=98997&offering=28838",
-									"file": "13-Abstract_Classes__Methods-98997.pptx",
-									"description": "Abstract_Classes",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99000&offering=28838",
-									"file": "Abstract (Example 2 )Solution-99000.pdf",
-									"description": "Abstract Class (Exercise)",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99001&offering=28838",
-									"file": "14-Interfaces-99001.pptx",
-									"description": "Interface",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99002&offering=28838",
-									"file": "InstanceOf Example-99002.docx",
-									"description": "application in inheritance and instanceof",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99003&offering=28838",
-									"file": "UML Class Diagram-99003.pdf",
-									"description": "UML Class Diagram",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99004&offering=28838",
-									"file": "exercise (Inheritance and Polymorphism) Solution-99004.pdf",
-									"description": "exercise (Inheritance and Polymorphism) Solution",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99005&offering=28838",
-									"file": "exercise 2 (Inheritance and Polymorphism) Solution-99005.pdf",
-									"description": "exercise 2 (Inheritance and Polymorphism)",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99006&offering=28838",
-									"file": "exercise 3 (Inheritance and Polymorphism)-99006.pdf",
-									"description": "exercise 3 (Inheritance and Polymorphism)",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99007&offering=28838",
-									"file": "exercise 4 (Inheritance and Polymorphism) Solution-99007.pdf",
-									"description": "exercise 4 (Inheritance and Polymorphism)",
-									"date": "28-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99054&offering=28838",
-									"file": "Interfaces and Classes Exercise(Solution)-99054.pdf",
-									"description": "Interfaces and Classes Exercise",
-									"date": "29-May-2023"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=99135&offering=28838",
-									"file": "Extra Exercises Solution-99135.pdf",
-									"description": "Extra Exercises",
-									"date": "31-May-2023"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "85",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "03-06-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "03-06-2023",
-									"grade": "88"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "29-04-2023",
-									"grade": "100"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "19-06-2023",
-									"grade": "68"
-							  }
-						 ]
+						 "grade": 3.3
 					}
 			  ],
 			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=127&type=1&appId=34338",
@@ -2617,1225 +234,49 @@
 						 "name": "Linear Algebra",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 3.3,
-						 "section": "A",
-						 "instructor": "Dr.  Salam  Kouzayha",
-						 "room": "112",
-						 "schedule": "Saturday(13:05:00-15:00:00)",
-						 "folder": [],
-						 "homework": [],
-						 "total": "89",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance and participation",
-									"percentage": "10%",
-									"date": "05-11-2022",
-									"grade": "80"
-							  },
-							  {
-									"title": "Homeworks and quizzes",
-									"percentage": "20%",
-									"date": "09-12-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "06-12-2022",
-									"grade": "98"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "11-01-2023",
-									"grade": "80"
-							  }
-						 ]
+						 "grade": 3.3
 					},
 					{
 						 "code": "CSC102",
 						 "name": "Logic Design",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 4,
-						 "section": "B",
-						 "instructor": "Dr.  Bassel  Marhaba",
-						 "room": "112",
-						 "schedule": "Saturday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85614&offering=27322",
-									"file": "01- Introduction to Logic design-85614.pdf",
-									"description": "General information about the course",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85715&offering=27322",
-									"file": "02- Logic design-85715.pdf",
-									"description": "Numeric systems conversions Signed binary numbers operations",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85716&offering=27322",
-									"file": "03- Logic design-85716.pdf",
-									"description": "BCD operations",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85717&offering=27322",
-									"file": "04- Logic Design-85717.pdf",
-									"description": "Binary codes and intro to Booleans ",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85718&offering=27322",
-									"file": "Digital Logic And Computer Design By M-85718. Morris Manopdf",
-									"description": "Text Book 1",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85719&offering=27322",
-									"file": "Fundamentals of Logic Design-85719.pdf",
-									"description": "Text Book 2",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85922&offering=27322",
-									"file": "v01 Binary simple adding and subtracting-85922.mp4",
-									"description": "video tutorial 01",
-									"date": "23-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86056&offering=27322",
-									"file": "v02 BCD Addition-86056.mp4",
-									"description": "video tutorial 02",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86057&offering=27322",
-									"file": "v04Truth Table-86057.mp4",
-									"description": "video tutorial 04",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://drive.google.com/file/d/1Obwr0NjDz_tOSfP5s12F6KvFts-IoFfg/view?usp=sharing",
-									"file": "https://drive.google.com/file/d/1Obwr0NjDz_tOSfP5s12F6KvFts-IoFfg/view?usp=sharing",
-									"description": "video tutorial 03",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86059&offering=27322",
-									"file": "v05 circuitverse simulator-86059.mp4",
-									"description": "video tutorial 05",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://drive.google.com/file/d/1mTz1Gj1j__DUqEF8hWXagERBd8dvInfB/view?usp=share_link",
-									"file": "https://drive.google.com/file/d/1mTz1Gj1j__DUqEF8hWXagERBd8dvInfB/view?usp=share_link",
-									"description": "video tutorial 06 - signed decimal to binary conversion",
-									"date": "30-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://drive.google.com/file/d/1SktAce-unHpofXw56fnJvFQZRgXnrU6V/view?usp=share_link",
-									"file": "https://drive.google.com/file/d/1SktAce-unHpofXw56fnJvFQZRgXnrU6V/view?usp=share_link",
-									"description": "video tutorial 07 - fractional signed numbers",
-									"date": "30-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89569&offering=27322",
-									"file": "Chapter_3_Boolean_Algebra_and_Logic_Gates-89569.pdf",
-									"description": "Boolean algebra for simplification Boolean expressions",
-									"date": "28-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89568&offering=27322",
-									"file": "Chapter 3 Karnaugh Map Introduction-89568.pdf",
-									"description": "Karnaugh Maps for simplification of Boolean expressions",
-									"date": "28-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90175&offering=27322",
-									"file": "Chapter4-Combinational Circuits -Arithmetic cct-90175.spdf",
-									"description": "Half and Full adders",
-									"date": "03-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90176&offering=27322",
-									"file": "Chapter4-Combinational Circuits- Decoders and Encoders-90176.pdf",
-									"description": "Decoders and Encoders",
-									"date": "03-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90177&offering=27322",
-									"file": "Chapter4-Combinational Circuits- Multiblexers and De-multiplexers-90177.pdf",
-									"description": "Multiplexers and De-Multiplexers",
-									"date": "03-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://t.me/wRn9e8wFlbQ2ODc0",
-									"file": "https://t.me/wRn9e8wFlbQ2ODc0",
-									"description": "JOIN Telegram Group",
-									"date": "10-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91748&offering=27322",
-									"file": "Chapter 5-A SequentialCircuits-91748.pdf",
-									"description": "Sequential Circuits",
-									"date": "29-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91749&offering=27322",
-									"file": "Chapter 5-B SR Latch and SR flip-flop-91749.pdf",
-									"description": "Sequential Circuits",
-									"date": "29-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91750&offering=27322",
-									"file": "Chapter 5-C JK flip-flop and Counters -91750.pdf",
-									"description": "Sequential Circuits",
-									"date": "29-Dec-2022"
-							  }
-						 ],
-						 "homework": [
-							  {
-									"title": "HW",
-									"description": "General",
-									"deadline": "01-Jan-2023"
-							  },
-							  {
-									"title": "Implementing Functions",
-									"description": "Implement function using decoders",
-									"deadline": "01-Jan-2023"
-							  },
-							  {
-									"title": "SR LATCH",
-									"description": "Draw the logic circuit and the truth table for the SR LATCH using NAND gates",
-									"deadline": "01-Jan-2023"
-							  },
-							  {
-									"title": "Boolean Algebra",
-									"description": "Practical exercises on Boolean expressions and logic gate circuits",
-									"deadline": "28-Oct-2022"
-							  }
-						 ],
-						 "total": "99",
-						 "letter": "A+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "17-10-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Researches & Classwork",
-									"percentage": "20%",
-									"date": "18-10-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Mid-Term",
-									"percentage": "30%",
-									"date": "12-11-2022",
-									"grade": "97"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "17-11-2022",
-									"grade": "100"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "CSC215",
 						 "name": "E-Business",
 						 "credits": 3,
 						 "type": "Faculty",
-						 "grade": 3.3,
-						 "section": "A",
-						 "instructor": "Dr.  Talal  Saadieh",
-						 "room": "113",
-						 "schedule": "Tuesday(12:05:00-15:00:00)",
-						 "folder": [],
-						 "homework": [],
-						 "total": "88",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "26-11-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Research",
-									"percentage": "20%",
-									"date": "26-11-2022",
-									"grade": "85"
-							  },
-							  {
-									"title": "Midterms",
-									"percentage": "30%",
-									"date": "26-11-2022",
-									"grade": "84"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "26-11-2022",
-									"grade": "90"
-							  }
-						 ]
+						 "grade": 3.3
 					},
 					{
 						 "code": "ADM105",
 						 "name": "Introduction to Information Technology",
 						 "credits": 3,
 						 "type": "General",
-						 "grade": 4,
-						 "section": "G",
-						 "instructor": "Mr.  Moustafa  Awad",
-						 "room": "Ungrad Comp Lab",
-						 "schedule": "Wednesday(10:05:00-13:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82707&offering=28031",
-									"file": "Week1-Intro to IT-82707.pptx",
-									"description": "IT Essentials, hardware, software ....",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82716&offering=28031",
-									"file": "Intro to Office Word-82716.pdf",
-									"description": "Introduction to Office Word",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82726&offering=28031",
-									"file": "Week2+3-chap3-findreplace_practice-82726.docx",
-									"description": "FindReplace practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82727&offering=28031",
-									"file": "Week2+3-question-chap3-82727.docx",
-									"description": "FindReplace Question",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82731&offering=28031",
-									"file": "Week2+3-chap4-spellinggrammar_practice-82731.docx",
-									"description": "spelling grammar practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82732&offering=28031",
-									"file": "Week2+3-question-chap4-82732.docx",
-									"description": "spelling grammar question",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82734&offering=28031",
-									"file": "Week2+3-chap5_practice-82734.docx",
-									"description": "Font Practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82738&offering=28031",
-									"file": "Week2+3-chap6-lineparagraphspacing_practice-82738.docx",
-									"description": "paragraph spacing practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82737&offering=28031",
-									"file": "Week2+3-question chap 5-82737.docx",
-									"description": "Font Question",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82740&offering=28031",
-									"file": "Week2+3-question chp6-82740.docx",
-									"description": "paragraph spacing question",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82743&offering=28031",
-									"file": "Week2+3-chap7-a-columns_practice-82743.docx",
-									"description": "columns practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82744&offering=28031",
-									"file": "Week2+3-chap7-a-question-82744.docx",
-									"description": "columns questions",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82746&offering=28031",
-									"file": "Week2+3-chap7-b-headersfooters_practice-82746.docx",
-									"description": "header and footer practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82747&offering=28031",
-									"file": "Week2+3-chap7-b-question-82747.docx",
-									"description": "header and footer questions",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82748&offering=28031",
-									"file": "Week2+3-chap7-c-pagelayout_practice-82748.docx",
-									"description": "page setup practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82749&offering=28031",
-									"file": "Week2+3-chap7-c-question-82749.docx",
-									"description": "page setup questions",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82750&offering=28031",
-									"file": "Week2+3-chap8-printing_practice-82750.docx",
-									"description": "printing pane practice",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82751&offering=28031",
-									"file": "Week2+3-chap8-question-82751.docx",
-									"description": "printing pane questions",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84546&offering=28031",
-									"file": "week4-chap9-formatpictures_practice-84546.docx",
-									"description": "format picture practie",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84548&offering=28031",
-									"file": "week4-chap9-question-84548.docx",
-									"description": "format picture question",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84550&offering=28031",
-									"file": "week4-chap10-shapes_practice-84550.docx",
-									"description": "shape practice",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84552&offering=28031",
-									"file": "week4-chap10-question_shapes-84552.docx",
-									"description": "shape question",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84554&offering=28031",
-									"file": "week4-chap11-styles_practice-84554.docx",
-									"description": "style practice",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84555&offering=28031",
-									"file": "week4-chap11-question-84555.docx",
-									"description": "style question",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84556&offering=28031",
-									"file": "week4-chap11-Themes_Practice-84556.docx",
-									"description": "themes practice",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84557&offering=28031",
-									"file": "week4-chap11-question-84557.docx",
-									"description": "themes question",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84558&offering=28031",
-									"file": "week4-flyer design-84558.jpg",
-									"description": "flyer design",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84559&offering=28031",
-									"file": "week4-flyer house image-84559.jpg",
-									"description": "flyer design image",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86300&offering=28031",
-									"file": "week5_chap14_lists_practice-86300.docx",
-									"description": "bullets, list practie",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86301&offering=28031",
-									"file": "week5_chap14-question-86301.docx",
-									"description": "bullets, list question",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86302&offering=28031",
-									"file": "week5_chap15_tables_practice-86302.docx",
-									"description": "table practice",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86303&offering=28031",
-									"file": "Week5_chap15-question-86303.docx",
-									"description": "table question",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86304&offering=28031",
-									"file": "Week5_symbol-Bullets-bookmark-hyperlink-Dropcap-86304.docx",
-									"description": "symbols,  cap...",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86306&offering=28031",
-									"file": "Week5_chap16-hyperlinks_practice-86306.docx",
-									"description": "hyperlink practice",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86307&offering=28031",
-									"file": "Week5_chap16-question-86307.docx",
-									"description": "hyperlink question",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86308&offering=28031",
-									"file": "party flyer-86308.jpg",
-									"description": "Quiz1",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86310&offering=28031",
-									"file": "FLYER DESIGN-86310.jpg",
-									"description": "Quiz 2",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86311&offering=28031",
-									"file": "FLYER DESIGN-86311.jpg",
-									"description": "Quiz 3",
-									"date": "24-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87423&offering=28031",
-									"file": "week6-insert_comment-87423.docx",
-									"description": " comment",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87424&offering=28031",
-									"file": "week6-tracking-87424.docx",
-									"description": "tracking practice",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87425&offering=28031",
-									"file": "week6-insert_Equations-87425.docx",
-									"description": " Equations practice",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87427&offering=28031",
-									"file": "week6-trackchanges_practice-87427.docx",
-									"description": "tracking change practice",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87428&offering=28031",
-									"file": "week6-trackchanges_question-87428.docx",
-									"description": "tracking change questions",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87429&offering=28031",
-									"file": "week6-table of contents , figures, footnotes-87429.docx",
-									"description": "table of contents, figures, footnotes... practice",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87430&offering=28031",
-									"file": "week6-table of contents , figures, footnotes_question-87430.docx",
-									"description": "table of contents, figures, footnotes... questions",
-									"date": "02-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88071&offering=28031",
-									"file": "week7 - QUIZ1-88071.docx",
-									"description": "Quiz",
-									"date": "12-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89270&offering=28031",
-									"file": "week8-chap1-powerpoint2016_slidebasics_practice-89270.pptx",
-									"description": "powerpoint slide basic practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89271&offering=28031",
-									"file": "week8-chap1-question-89271.docx",
-									"description": "powerpoint slide basic question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89272&offering=28031",
-									"file": "week8-chap2-powerpoint2016_section_practice-89272.pptx",
-									"description": "powerpoint section practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89273&offering=28031",
-									"file": "week8-chap3-a-powerpoint2016_aligning_practice-89273.pptx",
-									"description": "powerpoint aligning practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89274&offering=28031",
-									"file": "week8-chap3-a-question-89274.docx",
-									"description": "powerpoint aligning question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89275&offering=28031",
-									"file": "week8-chap3-b-powerpoint2016_textbasics_practice-89275.pptx",
-									"description": "powerpoint text basic practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89276&offering=28031",
-									"file": "week8-chap3-b-question-89276.docx",
-									"description": "powerpoint text basic question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89277&offering=28031",
-									"file": "week8-chap4-powerpoint2016_formattingpictures_practice (1)-89277.pptx",
-									"description": "powerpoint formatting picture  practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89278&offering=28031",
-									"file": "week8-chap4-question-89278.docx",
-									"description": "powerpoint formatting picture  question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89279&offering=28031",
-									"file": "week8-chap5-powerpoint2016_printing_practice-89279.pptx",
-									"description": "powerpoint printing practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89280&offering=28031",
-									"file": "week8-chap5-question-89280.docx",
-									"description": "powerpoint printing question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89308&offering=28031",
-									"file": "week9-chap6-powerpoint2016_transitions_practice-89308.pptx",
-									"description": "powerpoint transitions practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89309&offering=28031",
-									"file": "week9-chap6-question-89309.docx",
-									"description": "powerpoint transitions question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89310&offering=28031",
-									"file": "week9-chap7-a-powerpoint2016_animation_practice-89310.pptx",
-									"description": "powerpoint animation practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89311&offering=28031",
-									"file": "week9-chap7-a-question-89311.docx",
-									"description": "powerpoint animation question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89312&offering=28031",
-									"file": "week9-chap7-b-jinan university-89312.pptx",
-									"description": "powerpoint animation 2 practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89313&offering=28031",
-									"file": "week9-chap7-b-question-89313.docx",
-									"description": "powerpoint animation 2 question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89314&offering=28031",
-									"file": "week9-chap7-c-animation practice road-89314.pptx",
-									"description": "powerpoint road animation practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89315&offering=28031",
-									"file": "week9-chap7-d-rocket animation-89315.pptx",
-									"description": "powerpoint rocket animation practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89316&offering=28031",
-									"file": "week9-chap7-d-question-89316.docx",
-									"description": "powerpoint rocket animation question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89317&offering=28031",
-									"file": "week9-chap7-d-rocket-89317.png",
-									"description": "rocket picture",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89318&offering=28031",
-									"file": "week9-chap8-a-powerpoint2016_audio_practice-89318.pptx",
-									"description": "powerpoint audio practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89319&offering=28031",
-									"file": "week9-chap8-a-question-89319.docx",
-									"description": "powerpoint audio question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89320&offering=28031",
-									"file": "week9-chap8-a-minden_something_small-89320.mp3",
-									"description": "audio",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89321&offering=28031",
-									"file": "week9-chap8-b-powerpoint2016_videos_practice-89321.pptx",
-									"description": "powerpoint video practice",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89322&offering=28031",
-									"file": "week9-chap8-b-question-89322.docx",
-									"description": "powerpoint video question",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89323&offering=28031",
-									"file": "week9-chap8-b-butterfly-89323.mp4",
-									"description": "video",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90501&offering=28031",
-									"file": "week10-chap 1 -90501.xlsx",
-									"description": "excel chap1",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90502&offering=28031",
-									"file": "week10-chap2-excel2016_modifyingcells_practice-90502.xlsx",
-									"description": "excel chap 2",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90503&offering=28031",
-									"file": "week10-chap2-question-90503.docx",
-									"description": "excel chap 2 questions",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90504&offering=28031",
-									"file": "week10-chap3-excel2016_cellreferences_practice-90504.xlsx",
-									"description": "excel chap 3 practice",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90505&offering=28031",
-									"file": "week10-chap3-question-90505.docx",
-									"description": "excel chap 3 questions",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90506&offering=28031",
-									"file": "week10-chap4-excel2016_formattingcells_practice-90506.xlsx",
-									"description": "excel chap 4 practice",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90507&offering=28031",
-									"file": "week10-chap4-question-90507.docx",
-									"description": "excel chap 4 questions",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90508&offering=28031",
-									"file": "week10-chap5-excel2016_freezepanes_practice (2)-90508.xlsx",
-									"description": "excel chap 5 practice",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90509&offering=28031",
-									"file": "week10-chap5-question-90509.docx",
-									"description": "excel chap 5 questions",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90510&offering=28031",
-									"file": "chapters-90510.xlsx",
-									"description": "excel chapters",
-									"date": "06-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91284&offering=28031",
-									"file": "week11-Functions_practice-91284.xlsx",
-									"description": "functions practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91285&offering=28031",
-									"file": "week11-functions_practice_with solutions-91285.xlsx",
-									"description": "functions practice with solutions",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91300&offering=28031",
-									"file": "week12-pagelayoutprint_practice-91300.xlsx",
-									"description": "page layout practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91301&offering=28031",
-									"file": "week12-pagelayout-question-91301.docx",
-									"description": "page layout questions",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91302&offering=28031",
-									"file": "week12_filtering_practice-91302.xlsx",
-									"description": "filtering practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91303&offering=28031",
-									"file": "week12-filtering-question-91303.docx",
-									"description": "filtering questions",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91304&offering=28031",
-									"file": "week12_sorting_practice-91304.xlsx",
-									"description": "sorting practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91305&offering=28031",
-									"file": "week12-sorting-question-91305.docx",
-									"description": "sorting questions",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91306&offering=28031",
-									"file": "week12_conditionalformatting_practice-91306.xlsx",
-									"description": "conditional formatting practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91307&offering=28031",
-									"file": "week12-conditional-formatting-question-91307.docx",
-									"description": "conditional formatting questions",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91308&offering=28031",
-									"file": "week12_tables_practice-91308.xlsx",
-									"description": "excel table practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91309&offering=28031",
-									"file": "week12-table-question-91309.docx",
-									"description": "excel table questions",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91310&offering=28031",
-									"file": "week12_charts_practice-91310.xlsx",
-									"description": "charts practice",
-									"date": "15-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=91311&offering=28031",
-									"file": "week12-charts-question-91311.docx",
-									"description": "charts questions",
-									"date": "15-Dec-2022"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "97",
-						 "letter": "A+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "05-10-2022",
-									"grade": "92"
-							  },
-							  {
-									"title": "Projects and Quizzes",
-									"percentage": "20%",
-									"date": "02-11-2022",
-									"grade": "88"
-							  },
-							  {
-									"title": "Midterm",
-									"percentage": "30%",
-									"date": "09-11-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Final (Final Exam)",
-									"percentage": "40%",
-									"date": "04-01-2023",
-									"grade": "100"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "CSC101",
 						 "name": "Programming I",
 						 "credits": 2,
 						 "type": "Faculty",
-						 "grade": 4,
-						 "section": "C",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "112",
-						 "schedule": "Wednesday(08:05:00-10:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82465&offering=28039",
-									"file": "Syllabus CSC101-Programming  2022-82465.pdf",
-									"description": "Syllabus",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82470&offering=28039",
-									"file": "chapter 1-82470.ppsx",
-									"description": "Lecture1",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82471&offering=28039",
-									"file": "chapter 2-82471.ppsx",
-									"description": "Lecture2",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=83946&offering=28039",
-									"file": "moreExercises-83946.pdf",
-									"description": "more Exercises(Ch1,Ch2)",
-									"date": "16-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85028&offering=28039",
-									"file": "chapter 3-85028.ppsx",
-									"description": "Lecture3",
-									"date": "20-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86564&offering=28039",
-									"file": "Ch3 Exercises+Lab3-86564.pdf",
-									"description": "chapter3 ExercisesLab",
-									"date": "26-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88927&offering=28039",
-									"file": "chapter 4-88927.ppsx",
-									"description": "chapter4",
-									"date": "21-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90713&offering=28039",
-									"file": "chapter 5-90713.ppsx",
-									"description": "Chapter5",
-									"date": "08-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90719&offering=28039",
-									"file": "Chapter 6-90719.pptx",
-									"description": "chapter6",
-									"date": "08-Dec-2022"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "96",
-						 "letter": "A+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "24-12-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "25-12-2022",
-									"grade": "98"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "13-11-2022",
-									"grade": "92"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "08-01-2023",
-									"grade": "98"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "CSC101L",
 						 "name": "Programming I Lab",
 						 "credits": 1,
 						 "type": "Faculty",
-						 "grade": 4,
-						 "section": "C",
-						 "instructor": "Dr.  Ziad  Hoblos",
-						 "room": "112",
-						 "schedule": "Monday(08:05:00-09:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82472&offering=28040",
-									"file": "Syllabus CSC101L-programming I Lab2022-82472.pdf",
-									"description": "Syllabus",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82473&offering=28040",
-									"file": "lab1 Solution-82473.pdf",
-									"description": "Lab1",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82474&offering=28040",
-									"file": "lab2 session 1-82474.pdf",
-									"description": "Lab2 Part1",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=82475&offering=28040",
-									"file": "lab2 session2-82475.pdf",
-									"description": "Lab2 Part2",
-									"date": "13-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=84296&offering=28040",
-									"file": "lab2 session 3-84296.pdf",
-									"description": "Lab2 Part3",
-									"date": "17-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88930&offering=28040",
-									"file": "Ch3 Exercises+Lab3-88930.pdf",
-									"description": "Lab3 part1",
-									"date": "21-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88931&offering=28040",
-									"file": "Lab 3 part2-88931.pdf",
-									"description": "Lab3 part2",
-									"date": "21-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88932&offering=28040",
-									"file": "Lab4 part1-88932.pdf",
-									"description": "Lab4 part1",
-									"date": "21-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89400&offering=28040",
-									"file": "Lab4 part2-89400.pdf",
-									"description": "Lab4 part2",
-									"date": "26-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89658&offering=28040",
-									"file": "Extra1 exercises loops-89658.pdf",
-									"description": "More1 exercises loops",
-									"date": "29-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89659&offering=28040",
-									"file": "Extra2 exercises loops-89659.pdf",
-									"description": "More2 exercises loops",
-									"date": "29-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90159&offering=28040",
-									"file": "Lab ( Array )-90159.pdf",
-									"description": "Lab Array",
-									"date": "03-Dec-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90723&offering=28040",
-									"file": "Methods-90723.pdf",
-									"description": "Lab (Methods)",
-									"date": "08-Dec-2022"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "100",
-						 "letter": "A+",
-						 "grades": [
-							  {
-									"title": "Attendance and Homework",
-									"percentage": "10%",
-									"date": "24-12-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Quizzes",
-									"percentage": "20%",
-									"date": "25-12-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Midterm Exam",
-									"percentage": "30%",
-									"date": "13-11-2022",
-									"grade": "100"
-							  },
-							  {
-									"title": "Final Exam (Final Exam)",
-									"percentage": "40%",
-									"date": "08-01-2023",
-									"grade": "100"
-							  }
-						 ]
+						 "grade": 4
 					},
 					{
 						 "code": "LIT110",
 						 "name": "Arabic Language I",
 						 "credits": 3,
 						 "type": "General",
-						 "grade": 3.3,
-						 "section": "F",
-						 "instructor": "Dr.  Ahlam  Abou hajal",
-						 "room": "111",
-						 "schedule": "Monday(09:05:00-10:00:00) ● Saturday(08:05:00-10:00:00)",
-						 "folder": [
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=83130&offering=28089",
-									"file": "تعديل توصيف 2022-2023لغة عربية1-83130.docx",
-									"description": "توصيف اللغة العربيّة",
-									"date": "14-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=83131&offering=28089",
-									"file": "لغة عربيّة من المحاضرة الأولى إلى المحاضرة السادسة-83131.pdf",
-									"description": "لغة عربيّة: ماهية اللغة، الكلمة وأقسامها، الفعل الماضي،الأمر، المضارع المبني والمرفوع والمنصوب",
-									"date": "14-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=83833&offering=28089",
-									"file": "تعديل مادة اللغة العربيّة-83833.pdf",
-									"description": "ملخّص مادة اللغة العربيّة",
-									"date": "15-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=85761&offering=28089",
-									"file": "المحاضرة السابعة والثامنة-85761.docx",
-									"description": "الفعل المضارع المجزوم/ تدريبات (المضارع المنصوب، المضارع المجزوم)",
-									"date": "22-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=86972&offering=28089",
-									"file": "المحاضرة التاسعة والعاشرة-86972.docx",
-									"description": "الفاعل ونائب الفاعل",
-									"date": "29-Oct-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=87751&offering=28089",
-									"file": "المحاضرة الحادية عشرة 5-87751.pdf",
-									"description": "المجرد والمزيد/ الصحيح والمعتل",
-									"date": "05-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88030&offering=28089",
-									"file": "المحاضرة الثانية عشرة-88030.pdf",
-									"description": "تدريبات في الفعل المجرّد والمزيد، الصحيح والمعتل",
-									"date": "10-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88455&offering=28089",
-									"file": "المحاضرة الثالثة عشرة-88455.pdf",
-									"description": "درس المفعول به ",
-									"date": "16-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=88667&offering=28089",
-									"file": "المحاضرة الرابعة عشرة درس العدد والمعدود-88667.pdf",
-									"description": "درس العدد والمعدود",
-									"date": "19-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=89941&offering=28089",
-									"file": "التلخيص-89941.pdf",
-									"description": "تقنيّة التلخيص",
-									"date": "30-Nov-2022"
-							  },
-							  {
-									"downloadlink": "https://jinansystem.com/student/downloadFile.php?fileId=90472&offering=28089",
-									"file": "المحاضرة السابعة عشرة والثامنة عشرة-90472.pdf",
-									"description": "درس المبتدأ والخبر",
-									"date": "06-Dec-2022"
-							  }
-						 ],
-						 "homework": [],
-						 "total": "87",
-						 "letter": "B+",
-						 "grades": [
-							  {
-									"title": "Attendance",
-									"percentage": "10%",
-									"date": "11-01-2023",
-									"grade": "90"
-							  },
-							  {
-									"title": "Participiant",
-									"percentage": "20%",
-									"date": "11-01-2023",
-									"grade": "99"
-							  },
-							  {
-									"title": "Midterm exam",
-									"percentage": "30%",
-									"date": "20-11-2022",
-									"grade": "76"
-							  },
-							  {
-									"title": "Final exam (Final Exam)",
-									"percentage": "40%",
-									"date": "20-01-2023",
-									"grade": "89"
-							  }
-						 ]
+						 "grade": 3.3
 					}
 			  ],
 			  "scheduleLink": "https://jinansystem.com/common/pdfReports/printSchedule.php?semId=125&type=1&appId=34338",
@@ -3845,21 +286,25 @@
 		 }
 	],
 	"transcript": {
+		 "totaltransfer": "9",
+		 "totalCredits": "64",
+		 "majorAverage": "87.37",
+		 "average": "87.55",
 		 "transferred": [
 			  {
 					"code": "BIT308",
 					"name": "Introduction to Programming",
-					"credits": "3.00"
+					"credits": "3"
 			  },
 			  {
 					"code": "STAT102",
 					"name": "Probability & Statistics",
-					"credits": "3.00"
+					"credits": "3"
 			  },
 			  {
 					"code": "MAT107",
 					"name": "Calculus",
-					"credits": "3.00"
+					"credits": "3"
 			  }
 		 ],
 		 "semesters": [
@@ -3916,20 +361,16 @@
 							  "average": "89"
 						 }
 					],
-					"current": [
-						 {
-							  "attempted": "17",
-							  "passed": "17",
-							  "average": "93.12"
-						 }
-					],
-					"cumulative": [
-						 {
-							  "attempted": "17",
-							  "passed": "17",
-							  "average": "93.12"
-						 }
-					]
+					"current": {
+						 "attempted": "17",
+						 "passed": "17",
+						 "average": "93.12"
+					},
+					"cumulative": {
+						 "attempted": "17",
+						 "passed": "17",
+						 "average": "93.12"
+					}
 			  },
 			  {
 					"title": "Spring  2022 - 2023",
@@ -3970,20 +411,16 @@
 							  "average": "77"
 						 }
 					],
-					"current": [
-						 {
-							  "attempted": "13",
-							  "passed": "13",
-							  "average": "85.31"
-						 }
-					],
-					"cumulative": [
-						 {
-							  "attempted": "30",
-							  "passed": "30",
-							  "average": "89.73"
-						 }
-					]
+					"current": {
+						 "attempted": "13",
+						 "passed": "13",
+						 "average": "85.31"
+					},
+					"cumulative": {
+						 "attempted": "30",
+						 "passed": "30",
+						 "average": "89.73"
+					}
 			  },
 			  {
 					"title": "Fall  2023 - 2024",
@@ -4038,20 +475,16 @@
 							  "average": "85"
 						 }
 					],
-					"current": [
-						 {
-							  "attempted": "18",
-							  "passed": "18",
-							  "average": "88.56"
-						 }
-					],
-					"cumulative": [
-						 {
-							  "attempted": "48",
-							  "passed": "48",
-							  "average": "89.29"
-						 }
-					]
+					"current": {
+						 "attempted": "18",
+						 "passed": "18",
+						 "average": "88.56"
+					},
+					"cumulative": {
+						 "attempted": "48",
+						 "passed": "48",
+						 "average": "89.29"
+					}
 			  },
 			  {
 					"title": "Spring  2023 - 2024",
@@ -4106,20 +539,16 @@
 							  "average": "71"
 						 }
 					],
-					"current": [
-						 {
-							  "attempted": "16",
-							  "passed": "16",
-							  "average": "82.31"
-						 }
-					],
-					"cumulative": [
-						 {
-							  "attempted": "64",
-							  "passed": "64",
-							  "average": "87.55"
-						 }
-					]
+					"current": {
+						 "attempted": "16",
+						 "passed": "16",
+						 "average": "82.31"
+					},
+					"cumulative": {
+						 "attempted": "64",
+						 "passed": "64",
+						 "average": "87.55"
+					}
 			  },
 			  {
 					"title": "Fall  2024 - 2025",
@@ -4128,60 +557,382 @@
 							  "code": "CSC104",
 							  "name": "Data Structures",
 							  "credits": "2",
-							  "grade": "IP",
-							  "average": "IP"
+							  "grade": null,
+							  "average": null
 						 },
 						 {
 							  "code": "CSC104L",
 							  "name": "Data Structures Lab",
 							  "credits": "1",
-							  "grade": "IP",
-							  "average": "IP"
+							  "grade": null,
+							  "average": null
 						 },
 						 {
 							  "code": "CSC216",
 							  "name": "Web Programming II",
 							  "credits": "3",
-							  "grade": "IP",
-							  "average": "IP"
+							  "grade": null,
+							  "average": null
 						 },
 						 {
 							  "code": "CSC219",
 							  "name": "Enterprise Resource Planning",
 							  "credits": "3",
-							  "grade": "IP",
-							  "average": "IP"
+							  "grade": null,
+							  "average": null
 						 },
 						 {
 							  "code": "CSC223",
 							  "name": "Artificial Intelligence with Python",
 							  "credits": "2",
-							  "grade": "IP",
-							  "average": "IP"
+							  "grade": null,
+							  "average": null
 						 },
 						 {
 							  "code": "MAT101",
 							  "name": "Discrete Maths",
 							  "credits": "2",
-							  "grade": "IP",
-							  "average": "IP"
+							  "grade": null,
+							  "average": null
 						 }
 					],
-					"current": [
-						 {
-							  "attempted": "13",
-							  "passed": "0",
-							  "average": "0.00"
-						 }
-					],
-					"cumulative": [
-						 {
-							  "attempted": "77",
-							  "passed": "64",
-							  "average": "87.55"
-						 }
-					]
+					"current": {
+						 "attempted": "13",
+						 "passed": null,
+						 "average": null
+					},
+					"cumulative": {
+						 "attempted": "77",
+						 "passed": "64",
+						 "average": "87.55"
+					}
 			  }
 		 ]
-	}
+	},
+	"curriculum": {
+		 "general": [
+			  {
+					"code": "ADM105",
+					"title": "Introduction to Information Technology",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT105",
+					"title": "الحضارة العربية",
+					"credits": 3,
+					"semester": "Spring  2022 - 2023 (C+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT110",
+					"title": "Arabic Language I",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT120",
+					"title": "English Language I or French Language I",
+					"credits": 3,
+					"semester": "Spring  2022 - 2023 (C+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "LIT125",
+					"title": "English Language II or French Language II",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  }
+		 ],
+		 "elective": [
+			  {
+					"code": "BIT308",
+					"title": "Introduction to Programming",
+					"credits": 3,
+					"semester": "Transfer",
+					"status": "Transfer"
+			  },
+			  {
+					"code": "AGCV250",
+					"title": "الفنون الإعلانية والتواصل البصري 3",
+					"credits": 3,
+					"semester": "Spring  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "AGCV255",
+					"title": "الرسم الإيضاحي",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "SPT100",
+					"title": "التربية البدنية و الرياضية",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "SCI001",
+					"title": "Introduction to Cyber Security",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  }
+		 ],
+		 "major": [
+			  {
+					"code": "MAT107",
+					"title": "Calculus",
+					"credits": 3,
+					"semester": "Transfer",
+					"status": "Transfer"
+			  },
+			  {
+					"code": "STAT102",
+					"title": "Probability & Statistics",
+					"credits": 3,
+					"semester": "Transfer",
+					"status": "Transfer"
+			  },
+			  {
+					"code": "PHY101",
+					"title": "General Physics",
+					"credits": 3,
+					"semester": "Spring  2023 - 2024 (C/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC307",
+					"title": "System Analysis and Design",
+					"credits": 3,
+					"semester": "Spring  2023 - 2024 (B/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC101",
+					"title": "Programming I",
+					"credits": 2,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC101L",
+					"title": "Programming I Lab",
+					"credits": 1,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC102",
+					"title": "Logic Design",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC103",
+					"title": "Database Systems",
+					"credits": 2,
+					"semester": "Spring  2023 - 2024 (B/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC103L",
+					"title": "Database Systems Lab",
+					"credits": 1,
+					"semester": "Spring  2023 - 2024 (C+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC210",
+					"title": "Object Oriented Programming",
+					"credits": 3,
+					"semester": "Spring  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC211",
+					"title": "Operating Systems",
+					"credits": 2,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC211L",
+					"title": "Operating Systems Lab",
+					"credits": 1,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC209",
+					"title": "Web Programming I",
+					"credits": 2,
+					"semester": "Spring  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "MAT108",
+					"title": "Linear Algebra",
+					"credits": 2,
+					"semester": "Fall  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "MAT210",
+					"title": "Operation Research",
+					"credits": 3,
+					"semester": "Fall  2023 - 2024 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC213",
+					"title": "Visual Programming",
+					"credits": 2,
+					"semester": "Spring  2022 - 2023 (A+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC215",
+					"title": "E-Business",
+					"credits": 3,
+					"semester": "Fall  2022 - 2023 (B+/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC308",
+					"title": "Networking",
+					"credits": 2,
+					"semester": "Spring  2023 - 2024 (B/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC224",
+					"title": "Introduction to Robotics and IOT",
+					"credits": 2,
+					"semester": "Spring  2023 - 2024 (A/Passed)",
+					"status": "Passed"
+			  },
+			  {
+					"code": "CSC104",
+					"title": "Data Structures",
+					"credits": 2,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC104L",
+					"title": "Data Structures Lab",
+					"credits": 1,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "MAT101",
+					"title": "Discrete Maths",
+					"credits": 2,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC216",
+					"title": "Web Programming II",
+					"credits": 3,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC219",
+					"title": "Enterprise Resource Planning",
+					"credits": 3,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC223",
+					"title": "Artificial Intelligence with Python",
+					"credits": 2,
+					"semester": "Fall  2024 - 2025 (IP/Registered)",
+					"status": "Registered"
+			  },
+			  {
+					"code": "CSC390",
+					"title": "Graduation Project",
+					"credits": 2,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "CSC212",
+					"title": "Mobile Applications",
+					"credits": 3,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "MAT310",
+					"title": "Numerical Computation",
+					"credits": 2,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "CSC220",
+					"title": "EnterpreneurShip for Science",
+					"credits": 3,
+					"semester": "New",
+					"status": "New"
+			  },
+			  {
+					"code": "CSC222",
+					"title": "Machine Learning with Python",
+					"credits": 2,
+					"semester": "New",
+					"status": "New"
+			  }
+		 ],
+		 "totalGeneral": 15,
+		 "totalElective": 15,
+		 "totalMajor": 68,
+		 "totals": [
+			  {
+					"title": "Required Credits to Graduate (Major Contract Sheet)",
+					"credits": 98
+			  },
+			  {
+					"title": "Required Credits to Graduate (Student Curriculum)",
+					"credits": 98
+			  },
+			  {
+					"title": "Required Remedial Credits",
+					"credits": 0
+			  },
+			  {
+					"title": "Granted Credits from BACCII or Freshman",
+					"credits": 0
+			  },
+			  {
+					"title": "Transfered credits",
+					"credits": 9
+			  },
+			  {
+					"title": "Attempted Credits",
+					"credits": 77
+			  },
+			  {
+					"title": "Passed",
+					"credits": 64
+			  },
+			  {
+					"title": "Remaining Credits",
+					"credits": 25
+			  }
+		 ]
+	},
+	"paymentsError": "Failed to fetch payments data"
 }

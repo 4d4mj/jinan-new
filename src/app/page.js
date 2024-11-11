@@ -10,9 +10,20 @@ import CourseDetails from "@/components/CourseDetails";
 export default function Home() {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
-	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
-
+	const [selectedSemester, setSelectedSemester] = useState("");
+	const [animate, setAnimate] = useState(false);
 	const [selectedCourse, setSelectedCourse] = useState(null);
+
+	useEffect(() => {
+		// Trigger animation on initial load
+		setTimeout(() => setAnimate(true), 100);
+	}, []);
+
+	useEffect(() => {
+		// Trigger animation on selectedSemester change
+		setAnimate(false);
+		setTimeout(() => setAnimate(true), 100);
+	}, [selectedSemester]);
 
 	const handleInfoClick = (course) => {
 		setSelectedCourse(course);
@@ -26,15 +37,13 @@ export default function Home() {
 		if (typeof window !== "undefined") {
 			const data = sessionStorage.getItem("data");
 
-			// If no data, redirect to login page
 			if (!data) {
 				router.push("/login");
 			} else {
 				try {
-					// Try to parse the stored data
 					const parsedData = JSON.parse(data);
 					setStoredData(parsedData);
-					setSelectedSemester(parsedData.courses[0]?.semester); // Set default semester
+					setSelectedSemester(parsedData.courses[0]?.semester);
 				} catch (error) {
 					console.error("Failed to parse session data:", error);
 					router.push("/login");
@@ -43,21 +52,11 @@ export default function Home() {
 		}
 	}, [router]);
 
-	// Filter courses based on selected semester
 	const coursesForSelectedSemester = data?.courses.find(
 		(course) => course.semester === selectedSemester
 	);
 
-	// Log only if data and coursesForSelectedSemester are available
-	if (coursesForSelectedSemester) {
-		console.log(
-			"total ",
-			coursesForSelectedSemester?.totalCreditsAttempted
-		);
-	}
-
 	if (!data || !coursesForSelectedSemester) {
-		// Avoid rendering the component or logging when data isn't fully loaded yet
 		return <Loading />;
 	}
 
@@ -78,20 +77,21 @@ export default function Home() {
 				/>
 
 				{/* Conditionally render the grid or the selected course info */}
-				<div className="flex-grow grid grid-cols-4 gap-4 grid-rows-3 overflow-y-auto">
+				<div
+					className={`flex-grow grid grid-cols-4 gap-4 grid-rows-3 overflow-y-auto ${
+						animate ? " transform transition-all duration-300 ease translate-y-0 opacity-100" : "translate-y-3 opacity-0"
+					}`}
+				>
 					{selectedCourse ? (
 						<CourseDetails course={selectedCourse} closeModal={closeModal} />
 					) : (
-						/* Display the course grid if no course is selected */
-						coursesForSelectedSemester?.courses.map(
-							(course, index) => (
-								<Course
-									key={index}
-									course={course}
-									onInfoClick={() => handleInfoClick(course)}
-								/>
-							)
-						)
+						coursesForSelectedSemester?.courses.map((course, index) => (
+							<Course
+								key={index}
+								course={course}
+								onInfoClick={() => handleInfoClick(course)}
+							/>
+						))
 					)}
 				</div>
 			</div>

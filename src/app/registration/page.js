@@ -10,6 +10,7 @@ export default function RegistrationPage() {
 	const router = useRouter();
 	const [data, setStoredData] = useState(null);
 	const [selectedSemester, setSelectedSemester] = useState(""); // Track the selected semester
+	const [animate, setAnimate] = useState(false);
 
 	useEffect(() => {
 		if (typeof window !== "undefined") {
@@ -31,6 +32,10 @@ export default function RegistrationPage() {
 			}
 		}
 	}, [router]);
+
+	useEffect(() => {
+		setTimeout(() => setAnimate(true), 100);
+	}, []);
 
 	// Filter courses based on selected semester
 	const coursesForSelectedSemester = data?.courses.find(
@@ -58,7 +63,9 @@ export default function RegistrationPage() {
 					average={coursesForSelectedSemester.averageGrade}
 					schedule={coursesForSelectedSemester.scheduleLink}
 				/>
-				<div className="flex-grow grid grid-cols-3 gap-4 grid-rows-2">
+				<div className={`flex-grow grid grid-cols-3 gap-4 grid-rows-2 transform transition-all duration-300 ease
+					 ${animate ? "translate-y-0 opacity-100" : "translate-y-3 opacity-0"}
+					`}>
 					<Semester />
 					<Semester />
 				</div>
